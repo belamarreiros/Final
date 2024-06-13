@@ -17,7 +17,7 @@
       </figure>
       <hr>
 
-      <h1>Rapha Pinheiro</h1>
+      <h1>RAPHA PINHEIROS</h1>
       <a href=" https://www.instagram.com/raphacpinheiro?igsh=eGEzOTJpNDk2Y2xy" target="_blank"><b>@raphacpinheiro</b></a>
       <hr>
 

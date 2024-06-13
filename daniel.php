@@ -3,7 +3,7 @@
 <!------------------------------------------------- Chamando Head ------------------------------------------------->
 <?php require "includes/head.php"; ?>
 
-<title>Daniel Esteves</title>
+<title>DANIEL ESTEVES</title>
 
 <body>
     <div class="container text-center">

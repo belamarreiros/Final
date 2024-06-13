@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 <!------------------------------------------------- Chamando Head ------------------------------------------------->
-<?php require "includes/head.php";?>
+<?php require "includes/head.php"; ?>
 
 <title>DESENHOS E COSPLAYS</title>
 
 <body>
   <div class="container text-center">
-<!------------------------------------------------- Chamando Header ------------------------------------------------->
-  <?php require "includes/header_nav.php";?>
+    <!------------------------------------------------- Chamando Header ------------------------------------------------->
+    <?php require "includes/header_nav.php"; ?>
     <article>
       <h2>Desenhos:</h2>
 
@@ -82,11 +82,11 @@
 
     </article>
 
-<!------------------------------------------------- Chamando Footer ------------------------------------------------->
-  <?php require "includes/footer.php";?>
+    <!------------------------------------------------- Chamando Footer ------------------------------------------------->
+    <?php require "includes/footer.php"; ?>
 
-<!------------------------------------------------- Chamando Java ------------------------------------------------->
-    <?php require "includes/java.php";?>
+    <!------------------------------------------------- Chamando Java ------------------------------------------------->
+    <?php require "includes/java.php"; ?>
 
   </div>
 </body>

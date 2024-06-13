@@ -16,7 +16,7 @@
             </figure>
             <hr>
 
-            <h1>Gilmar</h1>
+            <h1>GILMAR</h1>
             <a href="https://www.instagram.com/cartunista_das_cavernas?igsh=eThyMzc4cWI4dDNk" target="_blank"><b>@cartunista_das_cavernas</b></a>
             <hr>
 

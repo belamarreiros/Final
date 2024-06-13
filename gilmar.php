@@ -3,7 +3,7 @@
 <!------------------------------------------------- Chamando Head ------------------------------------------------->
 <?php require "includes/head.php"; ?>
 
-<title>Gilmar</title>
+<title>GILMAR</title>
 
 <body>
     <div class="container text-center">
@@ -16,7 +16,7 @@
             </figure>
             <hr>
 
-            <h1>GILMAR</h1>
+            <h1>Gilmar</h1>
             <a href="https://www.instagram.com/cartunista_das_cavernas?igsh=eThyMzc4cWI4dDNk" target="_blank"><b>@cartunista_das_cavernas</b></a>
             <hr>
 

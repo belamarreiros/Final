@@ -3,7 +3,7 @@
 <!------------------------------------------------- Chamando Head ------------------------------------------------->
 <?php require "includes/head.php"; ?>
 
-<title>Rapha Pinheiro</title>
+<title>RAPHA PINHEIROS</title>
 
 <body>
   <div class="container text-center">
@@ -17,7 +17,7 @@
       </figure>
       <hr>
 
-      <h1>RAPHA PINHEIROS</h1>
+      <h1>Rapha Pinheiros</h1>
       <a href=" https://www.instagram.com/raphacpinheiro?igsh=eGEzOTJpNDk2Y2xy" target="_blank"><b>@raphacpinheiro</b></a>
       <hr>
 

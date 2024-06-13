@@ -10,7 +10,7 @@
         <!------------------------------------------------- Chamando Header ------------------------------------------------->
         <?php require "includes/header_nav.php"; ?>
         <article class="mt-3">
-
+            <hr>
             <h1>Alunos envolvidos no projeto</h1>
             <hr>
 

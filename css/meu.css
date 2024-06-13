@@ -112,6 +112,14 @@ article button {
   margin: 20px;
 }
 
+article a {
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-family: "Merienda", cursive;
+  color: var(--rosa);
+}
+
 /*--------------------------------------------  Configurações de tela cartunistas.php --------------------------------------------*/
 .banner_cartunistas{
   margin: 0% 0% 5% 0%;

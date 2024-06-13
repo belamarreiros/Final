@@ -1,0 +1,173 @@
+@charset "UTF-8";
+
+/* Variaveis */
+:root {
+  --amarelo: #E6B120;
+  --rosa: #E11E72;
+  --roxo: #57308D;
+  --azul: #669BBC;
+  --cinza: #6D6875;
+}
+
+header img {
+  border-radius: 35px;
+  padding: 0;
+}
+
+nav {
+  height: 75px;
+  border-radius: 30px;
+  background-color: var(--roxo);
+  margin: 10px 0px 10px 0px;
+  font-family: "Merienda", cursive;
+}
+
+.navbar li {
+  list-style-type: none;
+}
+
+ul li {
+  padding: 5px 10px;
+}
+
+/* Estilo quando o mouse passa por cima */
+ul li a:hover {
+  background-color: var(--rosa);
+  border-radius: 30px;
+}
+
+nav ul li a.selecionado {
+  background-color: var(--rosa);
+  color: white;
+  border-radius: 30px;
+}
+
+.offcanvas-body,.offcanvas-header{
+  color: white;
+  background-color: var(--roxo);
+}
+
+h1 {
+  font-family: "Merienda", cursive;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: var(--roxo);
+}
+
+h2 {
+  font-family: "Merienda", cursive;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+  color: var(--roxo);
+}
+
+h3 {
+  font-family: "Merienda", cursive;
+  font-optical-sizing: auto;
+  font-size: 15px;
+  font-weight: 200;
+  font-style: normal;
+  color: var(--roxo);
+}
+
+p {
+  color: black;
+  text-align: justify;
+  font-family: "Josefin Slab", serif;
+  font-size: 18px;
+  font-weight: 600;
+  font-style: normal;
+}
+
+img {
+  border-radius: 30px;
+}
+
+input, textarea {
+  border: solid 2px var(--roxo);
+  border-radius: 30px;
+  padding: 15px;
+  width: 400px;
+}
+
+form input {
+  margin: 5px;
+  width: 400px;
+  height: 50px;
+}
+
+article button {
+  border: solid 2px var(--azul);
+  border-radius: 30px;
+  background-color: var(--amarelo);
+  color: var(--roxo);
+  font-family: "Merienda", cursive;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  width: 200px;
+  height: 50px;
+  margin: 20px;
+}
+
+/*--------------------------------------------  Configurações de tela cartunistas.php --------------------------------------------*/
+.banner_cartunistas{
+  margin: 0% 0% 5% 0%;
+}
+
+
+/*--------------------------------------------  Configurações de tela sucesso.php --------------------------------------------*/
+#body_sucesso {
+  padding: 50px;
+  text-align: center;
+}
+
+
+footer {
+  background-color: var(--roxo);
+  border-top-left-radius: 50px;
+  border-top-right-radius: 50px;
+  display: flex;
+  justify-content: center;
+  color: white;
+  padding-top: 15px;
+  padding-left: 20px;
+  padding-bottom: 15px;
+  font-family: "Josefin Slab", serif;
+  font-weight: 600;
+  font-size: 18px;
+}
+
+footer img {
+  height: 180px;
+  border-radius: 100%;
+}
+
+footer a {
+  text-decoration: none;
+}
+
+.a_footer {
+  color: white;
+  display: flex;
+}
+
+.a_footer:hover {
+  color: white;
+}
+
+.a_footer svg {
+  margin-right: 3px;
+}
+
+.a_footer {
+  text-decoration: none;
+  color: white;
+}
+
+.teste{
+  display: flex;
+  justify-content: center;
+}

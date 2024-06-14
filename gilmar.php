@@ -2,9 +2,7 @@
 <html lang="pt-BR">
 <!------------------------------------------------- Chamando Head ------------------------------------------------->
 <?php require "includes/head.php"; ?>
-
 <title>GILMAR</title>
-
 <body>
     <div class="container text-center">
         <!------------------------------------------------- Chamando Header ------------------------------------------------->
@@ -15,18 +13,15 @@
                 <img src="imagens/banner_gilmar.svg" alt="" class="img-banner">
             </figure>
             <hr>
-
             <h1>Gilmar</h1>
             <a href="https://www.instagram.com/cartunista_das_cavernas?igsh=eThyMzc4cWI4dDNk" target="_blank"><b>@cartunista_das_cavernas</b></a>
             <hr>
-
             <div class="row justify-content-center">
                 <div class="col-lg-6 col-md-6 col-sm-12">
                     <figure>
                         <img src="imagens/gilmar1.jpeg" alt="Imagem representando o cartunista Gilmar" width="500px" height="500px" class="img_cartunista_individual">
                     </figure>
                 </div>
-
                 <div class="col-lg-6 col-md-6 col-sm-12">
                     <p>
                         Como um cartunista renomado, seus desenhos têm encontrado seu caminho em <strong>jornais, revistas e livros, ganhando reconhecimento em todo o país. Com uma carreira prolífica, já lançou dez livros de tiras e quadrinhos, com três deles sendo selecionados pelo governo para enriquecer as bibliotecas públicas.</strong> Seu trabalho mais recente, “Entre Quatro Contos”, é um reflexo de sua habilidade narrativa e criativa.
@@ -39,16 +34,12 @@
                     </p>
                 </div>
             </div>
-
             <hr>
-
         </article>
-
         <!------------------------------------------------- Chamando Footer ------------------------------------------------->
         <?php require "includes/footer.php"; ?>
 
         <!------------------------------------------------- Chamando Java ------------------------------------------------->
         <?php require "includes/java.php"; ?>
-
     </div>
 </body>

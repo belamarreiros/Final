@@ -2,9 +2,7 @@
 <html lang="pt-BR">
 <!------------------------------------------------- Chamando Head ------------------------------------------------->
 <?php require "includes/head.php"; ?>
-
 <title>DANIEL ESTEVES</title>
-
 <body>
     <div class="container text-center">
         <!------------------------------------------------- Chamando Header ------------------------------------------------->
@@ -15,20 +13,16 @@
                 <img src="imagens/banner_daniel.svg" alt="banner" class="img-banner">
             </figure>
             <hr>
-
             <h1>Daniel Esteves</h1>
             <a href="https://www.instagram.com/zapata.edicoes?igsh=MXA4YjFycDRibXpiYQ==" target="_blank"><b>@zapata.edicoes</b></a>
             <hr>
-
             <div class="row justify-content-center">
                 <div class="col-lg-6 col-md-6 col-sm-12">
                     <figure>
                         <img src="imagens/daniel.jpg" alt="Imagem representando o cartunista Daniel Esteves" width="500px" height="500px" class="img_cartunista_individual">
                     </figure>
                 </div>
-
                 <div class="col-lg-6 col-md-6 col-sm-12">
-
                     <p>
                         É o talentoso criador da série <strong>"Nanquim Descartável"</strong>, uma obra que cativou os leitores durante seu período de publicação entre 2007 e 2015. Com roteiros escritos por ele mesmo e ilustrações de uma equipe diversificada, incluindo nomes como Wanderson de Souza, Wagner de Souza, Alex Rodrigues, Mario Cau, Júlio Brilha, Mário César e Fred Hildebrand, a série conquistou reconhecimento pelo seu estilo único e narrativas envolventes.
                     </p>
@@ -44,14 +38,10 @@
                 </div>
             </div>
             <hr>
-
         </article>
-
         <!------------------------------------------------- Chamando Footer ------------------------------------------------->
         <?php require "includes/footer.php"; ?>
-
         <!------------------------------------------------- Chamando Java ------------------------------------------------->
         <?php require "includes/java.php"; ?>
-
     </div>
 </body>

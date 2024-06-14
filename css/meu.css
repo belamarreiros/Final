@@ -73,6 +73,15 @@ h3 {
   color: var(--roxo);
 }
 
+h5 {
+  font-family: "Merienda", cursive;
+  font-optical-sizing: auto;
+  font-size: 14px;
+  font-weight: 200;
+  font-style: normal;
+  color: var(--roxo);
+}
+
 p {
   color: black;
   text-align: justify;
@@ -181,7 +190,7 @@ footer a {
   justify-content: center;
 }
 
-@media (min-width: 1200px) and (max-width: 1399px) {
+/* @media (min-width: 1200px) and (max-width: 1399px) {
   .img_cartunista{
       width: 250px;
       height: 250px;
@@ -217,4 +226,4 @@ footer a {
   }
   
 }
-
+ */

@@ -13,7 +13,7 @@
     <hr>
     <article>
       <div class="row justify-content-center">
-        <div class="col-lg-3 col-sm-4 col-md-4">
+        <div class="col-lg-3 col-md-4 col-sm-4">
           <img src="imagens/index1.webp" alt="Texto em estilo quadrinho de gibi com cores animadas em amarelo, rosa e roxo. Diz: 'fateconHQs no sábado, 19 de novembro na Fatec, na rua Marechal Deodoro da Fonseca, 132, bem no centro de São Roque, a duas quadras da rodoviária.'" class="img-fluid">
         </div>
         <div class="col-lg-3 col-md-4 col-sm-4">

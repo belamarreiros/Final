@@ -24,6 +24,7 @@ nav {
 
 .navbar li {
   list-style-type: none;
+  white-space: nowrap;
 }
 
 ul li {
@@ -142,7 +143,7 @@ article a {
   text-align: center;
 }
 
-
+/*------------------------------------  Configurações do footer---------------------------------*/
 footer {
   background-color: var(--roxo);
   border-top-left-radius: 50px;
@@ -151,7 +152,6 @@ footer {
   justify-content: center;
   color: white;
   padding-top: 15px;
-  padding-left: 20px;
   padding-bottom: 15px;
   font-family: "Josefin Slab", serif;
   font-weight: 600;
@@ -187,7 +187,12 @@ footer a {
 
 .teste{
   display: flex;
-  justify-content: center;
+  flex-wrap: wrap; /* Permite que os itens quebrem para uma nova linha */
+}
+
+.teste > div {
+  margin: 5px; /* Espaçamento entre os itens */
+  text-align: center;
 }
 
 /*--------------------------------------------  Configurações de media query --------------------------------------------*/
@@ -229,6 +234,9 @@ footer a {
     width: 350px;
     height: 350px;
   }
+  .teste > div {
+    flex-basis: 50%; /* Ajusta o tamanho das colunas para dois itens por linha */
+  }
 }
 
 @media (max-width: 767px) {
@@ -241,5 +249,7 @@ footer a {
     max-width: 100%; /* Ajusta a largura máxima para o tamanho do contêiner pai */
     height: auto; /* Mantém a proporção original da imagem */
   }
-  
+  .teste > div {
+    flex-basis: 50%; /* Ajusta o tamanho das colunas para dois itens por linha */
+  }
 }

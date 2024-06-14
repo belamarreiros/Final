@@ -2,9 +2,7 @@
 <html lang="pt-BR">
 <!------------------------------------------------- Chamando Head ------------------------------------------------->
 <?php require "includes/head.php"; ?>
-
 <title>JEFFERSON COSTA</title>
-
 <body>
     <div class="container text-center">
         <!------------------------------------------------- Chamando Header ------------------------------------------------->
@@ -15,18 +13,15 @@
                 <img src="imagens/banner_jefferson.svg" alt="" class="img-banner">
             </figure>
             <hr>
-
             <h1>Jefferson Costa </h1>
             <a href="https://www.instagram.com/jeff_costa_rm?igsh=Z3IxbnE4ZGpjYWUz" target="_blank"><b>@jeff_costa_rm</b></a>
             <hr>
-
             <div class="row justify-content-center">
                 <div class="col-lg-6 col-md-6 col-sm-12">
                     <figure>
                         <img src="imagens/jefferson1.webp" alt="Imagem representando o cartunista Jefferson" width="500px" height="500px" class="img_cartunista_individual">
                     </figure>
                 </div>
-
                 <div class="col-lg-6 col-md-6 col-sm-12">
                     <p>
                         Nascido em São Paulo/SP em 1979, é um artista versátil que tem deixado sua marca em diversas áreas, incluindo ilustração, storyboard, e desenho de personagens e cenários para animações de destaque. Sua criatividade e talento foram fundamentais para produções aclamadas como “Historietas Assombradas (para Crianças Malcriadas)” para o Cartoon Network e “As Microaventuras de Tito e Muda” para o Discovery Kids Brasil, <strong>esta última premiada como Melhor Série no Festival Anima Latina, na Argentina.</strong>
@@ -45,16 +40,11 @@
                     </p>
                 </div>
             </div>
-
             <hr>
-
         </article>
-
         <!------------------------------------------------- Chamando Footer ------------------------------------------------->
         <?php require "includes/footer.php"; ?>
-
         <!------------------------------------------------- Chamando Java ------------------------------------------------->
         <?php require "includes/java.php"; ?>
-
     </div>
 </body>

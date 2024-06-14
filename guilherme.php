@@ -2,9 +2,7 @@
 <html lang="pt-BR">
 <!------------------------------------------------- Chamando Head ------------------------------------------------->
 <?php require "includes/head.php"; ?>
-
 <title>GUILHERME INFANTE</title>
-
 <body>
   <div class="container text-center">
     <!------------------------------------------------- Chamando Header ------------------------------------------------->
@@ -15,20 +13,18 @@
         <img src="imagens/banner_guilherme.svg" alt="" class="img-banner">
       </figure>
       <hr>
-
-      <h1>Guilherme Infante</h1>
-      <a href="https://www.instagram.com/o_capirotinho/" target="_blank"><b>@o_capirotinho</b></a>
-      <br>
-      <a href="https://www.instagram.com/guilherme.infante?igsh=MXNxazk0Zm14cGY0aQ==" target="_blank"><b>@guilherme.infante</b></a>
-      <hr>
-
+      <div class="row col-lg-12 col-md-12 col-sm-12 justify-content-center">
+        <h1>Guilherme Infante</h1>
+        <a href="https://www.instagram.com/o_capirotinho/" target="_blank"><b>@o_capirotinho</b></a>
+        <a href="https://www.instagram.com/guilherme.infante?igsh=MXNxazk0Zm14cGY0aQ==" target="_blank"><b>@guilherme.infante</b></a>
+        <hr>
+      </div>
       <div class="row justify-content-center">
         <div class="col-lg-6 col-md-6 col-sm-12">
           <figure>
             <img src="imagens/guilherme1.webp" alt="Imagem representando o cartunista Guilherme Infante" width="500px" height="500px" class="img_cartunista_individual">
           </figure>
         </div>
-
         <div class="col-lg-6 col-md-6 col-sm-12">
           <p>
             Renomado quadrinista brasileiro que, em 2014, deu vida ao personagem <strong>Capirotinho</strong>, um pequeno diabo repleto de sarcasmo que oferece conselhos perspicazes sobre uma variedade de temas cotidianos. As tiras e cartuns protagonizados por esse personagem são compartilhados diariamente em sua fanpage no Facebook, que viu um salto impressionante de 16 mil fãs em 2014 para 115 mil em 2017.
@@ -45,16 +41,11 @@
         </div>
       </div>
       <hr>
-
     </article>
-
     <!------------------------------------------------- Chamando Footer ------------------------------------------------->
     <?php require "includes/footer.php"; ?>
-
     <!------------------------------------------------- Chamando Java ------------------------------------------------->
     <?php require "includes/java.php"; ?>
-
   </div>
 </body>
-
 </html>

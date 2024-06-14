@@ -10,24 +10,20 @@
         <!------------------------------------------------- Chamando Header ------------------------------------------------->
         <?php require "includes/header_nav.php"; ?>
         <article>
-
             <hr>
             <figure>
                 <img src="imagens/banner_marcel.svg" alt="" class="img-banner">
             </figure>
             <hr>
-
-            <h1>Marcel Bartolo</h1>
+            <h1>Marcel Bartholo</h1>
             <a href="https://www.instagram.com/bartholomarcel?igsh=MXJqYzRnOGQwZHp1eA==" target="_blank"><b>@bartholomarcel</b></a>
             <hr>
-
             <div class="row justify-content-center">
                 <div class="col-lg-6 col-md-6 col-sm-12">
                     <figure>
                         <img src="imagens/marcel1.webp" alt="Imagem representando o cartunista Marcel" width="500px" height="500px" class="img_cartunista_individual">
                     </figure>
                 </div>
-
                 <div class="col-lg-6 col-md-6 col-sm-12">
                     <p>
                         Originário da pitoresca cidade de Teresópolis, na região serrana do Rio de Janeiro, este artista talentoso é conhecido por sua versatilidade, atuando como ilustrador, quadrinista e artista plástico. Com uma <strong>pós-graduação em Artes Visuais-Cultura e Criação</strong>, ele não só cria arte, mas também compartilha seu conhecimento como professor em Sorocaba (SP), conduzindo oficinas de desenho e criatividade. Além disso, é o cérebro por trás do <strong>Encontro Ilustra</strong>, um evento e canal no YouTube que serve como um ponto de encontro para admiradores e profissionais do desenho.
@@ -43,9 +39,7 @@
                     </p>
                 </div>
             </div>
-
             <hr>
-
         </article>
 
         <!------------------------------------------------- Chamando Footer ------------------------------------------------->
@@ -56,5 +50,4 @@
 
     </div>
 </body>
-
 </html>

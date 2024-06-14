@@ -104,6 +104,8 @@ input, textarea {
 }
 
 form input {
+  display: flex;
+  justify-content: center;
   margin: 5px;
   width: 400px;
   height: 50px;

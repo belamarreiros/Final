@@ -113,7 +113,7 @@
 
                 </div>
 
-                <hr>
+                <hr class="mt-4">
 
                 <figure class="banner_cartunistas">
                     <a href="https://www.instagram.com/stories/highlights/18204866779216593/" target="_blank">
@@ -150,7 +150,9 @@
                             <button onclick="window.location.href='guilherme.php'">Veja mais</button>
                         </div>
                     </div>
-                    <hr>
+
+                    <hr class="mt-4">
+
                     <figure class="banner_cartunistas">
                         <a href="https://www.instagram.com/stories/highlights/18204866779216593/" target="_blank">
                             <img src="imagens/Banner_cartunistas_04.webp" width="1296" height="106" alt="banner" class="img-banner" />

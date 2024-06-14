@@ -11,9 +11,10 @@
     <?php require "includes/header_nav.php"; ?>
 
     <article>
+
       <hr>
-      <figure class="mt-3">
-        <img src="https://placehold.co/1000x100/000000/FFF" alt="">
+      <figure>
+        <img src="imagens/banner_natalia.svg" alt="" class="img-banner">
       </figure>
       <hr>
 
@@ -24,7 +25,7 @@
       <div class="row justify-content-center">
         <div class="col-lg-6 col-md-6 col-sm-12">
           <figure>
-            <img src="https://placehold.co/500x500/000000/FFF" alt="">
+            <img src="imagens/natalia1.webp" alt="Imagem representando a cartunista Natalia" width="500px" height="500px" class="img_cartunista_individual">
           </figure>
         </div>
 
@@ -41,10 +42,6 @@
         </div>
       </div>
 
-      <hr>
-      <figure>
-        <img src="https://placehold.co/1200x300/000000/FFF" alt="">
-      </figure>
       <hr>
 
     </article>

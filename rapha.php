@@ -13,7 +13,7 @@
     <article>
       <hr>
       <figure>
-        <img src="https://placehold.co/1000x100/000000/FFF" alt="">
+        <img src="imagens/banner_rapha.svg" alt="" class="img-banner">
       </figure>
       <hr>
 
@@ -23,10 +23,11 @@
 
       <div class="row justify-content-center">
         <div class="col-lg-6 col-md-6 col-sm-12">
-          <figure class="mt-3">
-            <img src="https://placehold.co/500x500/000000/FFF" alt="">
+          <figure>
+            <img src="imagens/rapha1.webp" alt="Imagem representando o cartunista Rapha Pinheiro" width="500px" height="500px" class="img_cartunista_individual">
           </figure>
         </div>
+
         <div class="col-lg-6 col-md-6 col-sm-12">
           <p>
             Com uma formação diversificada e internacional, sua jornada acadêmica o levou da <strong>FAU UFRJ no Brasil à University of Lincoln na Inglaterra, e até mesmo à École Européenne Superieure de l’Image em Angoulême, na França</strong>. Hoje, é um orgulhoso mestre em Mídias Criativas pela ECO UFRJ.
@@ -45,11 +46,6 @@
           </p>
         </div>
       </div>
-      <hr>
-
-      <figure>
-        <img src="https://placehold.co/1200x300/000000/FFF" alt="">
-      </figure>
       <hr>
 
     </article>

@@ -18,7 +18,7 @@
             <div class="row mt-3 justify-content-center">
 
                 <div class="col-lg-3 col-md-4 col-sm-12">
-                    <img src="imagens/bruno.webp" alt="Imagem com Placeholder" class="img-fluid">
+                    <img src="imagens/bruno.webp" alt="Homem branco, de cabelos escuros, vestindo uma blusa cinza com um escrito no peito ilegivel, barba por fazer, de fundo paredes cinzas, um balcão preto com uma tc pendurada na parede e banquetas brancas ao balcão." class="img-fluid">
                 </div>
 
                 <div class="col-lg-7 col-md-8 col-sm-12">
@@ -41,7 +41,7 @@
             <div class="row mt-3 justify-content-center">
 
                 <div class="col-lg-3 col-md-4 col-sm-12">
-                    <img src="imagens/fellipe.webp" alt="Imagem com Placeholder" class="img-fluid">
+                    <img src="imagens/fellipe.webp" alt="Homem moreno, de cabelos escuros, barba bem feita, usando uma camisa roza lisa, sorrindo, ao fundo um campo verde com arvores e uma construção, bem acabada com luzaes amarelas em seu interior." class="img-fluid">
                 </div>
 
                 <div class="col-lg-7 col-md-8 col-sm-12">
@@ -76,7 +76,7 @@
             <div class="row mt-3 justify-content-center">
 
                 <div class="col-lg-3 col-md-4 col-sm-12">
-                    <img src="imagens/iza.webp" alt="Imagem com Placeholder" class="img-fluid">
+                    <img src="imagens/iza.webp" alt="Mulher branca de cabelos escuros e longos, usando oculos com uma camisa de manga comprida branca, utilizando um smartwatch, segurando e olhando para um tablet com um logotipo da Apple na parte de trás, sentada com os braços apoiados em uma mesa de mogno. O fundo parece ser um ambiente interno com um tom acastanhado." class="img-fluid">
                 </div>
 
                 <div class="col-lg-7 col-md-8 col-sm-12">
@@ -105,7 +105,7 @@
             <div class="row mt-3 justify-content-center">
 
                 <div class="col-lg-3 col-md-4 col-sm-12">
-                    <img src="imagens/rhomer.webp" alt="Imagem com Placeholder" class="img-fluid">
+                    <img src="imagens/rhomer.webp" alt="Homem brancco de cabelos esuros, barba bem feita, usando uma camisa verde, olhando para frente em seu fundo arvores, folhas, galhos e um lago." class="img-fluid">
                 </div>
 
                 <div class="col-lg-7 col-md-8 col-sm-12">
@@ -117,7 +117,7 @@
                     <p>Mini biografia:</p>
                     <p>Minha jornada na tecnologia começou aos 14 anos, quando mergulhei nos encantos da programação em um
                         curso de informática. Aos 18, concluí o curso técnico em Análise e Desenvolvimento de Sistemas,
-                        consolidando minha paixão por soluções tecnológicas. Agora, aos 19 anos, estou imerso no primeiro
+                        consolidando minha paixão por soluções tecnológicas. Agora, aos 19 anos, estou imerso no segundo
                         semestre do curso superior de Sistemas para Internet, ansioso para enfrentar desafios e contribuir
                         para o avanço tecnológico. Cada linha de código representa não apenas uma conquista pessoal, mas um
                         passo sólido em direção ao meu objetivo profissional.

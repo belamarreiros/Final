@@ -20,17 +20,21 @@
 
     <div class="row justify-content-center mt-3">
         <div class="col-lg-3 col-md-12 col-sm-12">
-            <img src="imagens/desenho1lugar_2023.webp" alt="Imagem com Placeholder" class="img-fluid">
+            <img src="imagens/desenho1lugar_2023.webp" alt="A imagem é uma obra de arte colorida que inclui vários elementos e parece ser um certificado de vencedor ou prêmio. No topo, há um texto que diz “SÃO ROQUE” com uma fonte estilizada e elementos decorativos ao redor. A parte central da imagem apresenta uma ilustração de uma figura feminina com cabelos longos cercada por folhas, galhos e o que parecem ser videiras, indicando um possível tema relacionado à natureza ou vinícolas. Abaixo desta figura, há várias ilustrações menores retratando prédios que lembram a arquitetura europeia, garrafas de vinho com rótulos como “Vinhos Góes” e “Mila Don Pato”, e cachos de uvas. Esses elementos sugerem que a imagem pode estar relacionada à produção de vinho ou a uma região conhecida por suas vinícolas.
+
+No canto inferior esquerdo, há um texto proeminente que diz “PRIMEIRO LUGAR” em letras maiúsculas em negrito sobre um fundo rosa, o que sugere que a obra de arte recebeu o primeiro lugar em alguma forma de competição. Além disso, há um texto identificando a artista como “EMILLY YUKARI BASTOS MARUYAMA, 16 anos”, indicando que a artista tem 16 anos de idade." class="img-fluid">
             <h2>1º Lugar</h2>
         </div>
     
         <div class="col-lg-3 col-md-6 col-sm-12">
-            <img src="imagens/desenho2lugar_2023.webp" alt="Imagem com Placeholder" class="img-fluid">
+            <img src="imagens/desenho2lugar_2023.webp" alt="A imagem é um desenho colorido que parece ser inspirado na “Noite Estrelada” de Vincent Van Gogh. Ela apresenta padrões giratórios no céu com estrelas e uma lua crescente, imitando o estilo icônico de Van Gogh. No primeiro plano, há uma estrutura proeminente que se assemelha a igraja da praça da matriz de São Roque-SP, junto com outros prédios que representam a cidade ou paisagem urbana. As cores são vibrantes, com azuis e amarelos dominando a paleta. No topo da imagem, o texto lê “SEGUNDO LUGAR”. Abaixo deste texto está outra linha que diz “NATHALIA GARCIA DE ALMEIDA, 15 anos”, indicando o nome e a idade do artista." class="img-fluid">
             <h2>2º Lugar</h2>
         </div>
     
         <div class="col-lg-3 col-md-6 col-sm-12">
-            <img src="imagens/desenho3lugar_2023.webp" alt="Imagem com Placeholder" class="img-fluid">
+            <img src="imagens/desenho3lugar_2023.webp" alt="A imagem é um desenho colorido que apresenta uma paisagem urbana com vários elementos. No centro, há uma grande colina ou montanha coberta de árvores com prédios de diferentes tamanhos e designs ao redor. O céu acima exibe um gradiente de roxo para amarelo, sugerindo o amanhecer ou o anoitecer. Há também algumas nuvens e o que parece ser um planeta ou lua visíveis no céu. No primeiro plano, há uma estrada com veículos, incluindo um ônibus amarelo proeminente no lado esquerdo. O desenho tem uma sensação geral vibrante e um pouco futurista devido à representação estilizada da paisagem urbana.
+
+No topo da imagem, em letras negrito contra um fundo roxo, está escrito “TERCEIRO LUGAR”. Abaixo deste texto está outra linha que diz “MIGUEL DE OLIVEIRA ASSÊNCIO DUTRA, 17 ANOS”, que indica que esta obra de arte alcançou o terceiro lugar em uma competição e fornece o nome e a idade do artista." class="img-fluid">
             <h2>3º Lugar</h2>
         </div>
 

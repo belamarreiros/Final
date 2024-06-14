@@ -213,6 +213,10 @@ footer a {
     max-width: 100%; /* Ajusta a largura máxima para o tamanho do contêiner pai */
     height: auto; /* Mantém a proporção original da imagem */
   }
+  .img_cartunista_individual {
+    width: 400px;
+    height: 400px;
+  }
 }
 
 @media (min-width: 768px) and (max-width: 992px) {
@@ -221,11 +225,19 @@ footer a {
     max-width: 100%; /* Ajusta a largura máxima para o tamanho do contêiner pai */
     height: auto; /* Mantém a proporção original da imagem */
   }
+  .img_cartunista_individual {
+    width: 350px;
+    height: 350px;
+  }
 }
 
 @media (max-width: 767px) {
  
   .img-banner{
+    max-width: 100%; /* Ajusta a largura máxima para o tamanho do contêiner pai */
+    height: auto; /* Mantém a proporção original da imagem */
+  }
+  .img_cartunista_individual {
     max-width: 100%; /* Ajusta a largura máxima para o tamanho do contêiner pai */
     height: auto; /* Mantém a proporção original da imagem */
   }

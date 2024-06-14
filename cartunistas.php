@@ -38,40 +38,36 @@
             <div>
                 <figure class="banner_cartunistas">
                     <a href="https://www.instagram.com/stories/highlights/18204866779216593/" target="_blank">
-                        <img src="imagens/Banner_cartunistas_01.webp" width="1296" height="106" alt="" />
+                        <img src="imagens/Banner_cartunistas_01.webp" width="1296" height="106" alt="banner" class="img-banner" />
                     </a>
                 </figure>
             </div>
             <div class="row justify-content-center">
                 <div class="row col-lg-6 col-md-6 col-sm-0">
                     <div class="col-lg-6 col-md-12 col-sm-0">
-                        <img src="imagens/rapha.webp" width="300" height="300" alt="" />
+                        <img src="imagens/rapha.webp" width="300" height="300" alt="Mascote da FateconHQs! com o nome do evento 'FateconHQs!' abaixo dele. No centro da imagem, há fotos das obras do cartunista Raphael Pinheiro. No canto inferior direito, em destaque, está a foto do cartunista, homem branco de cabelos escuto, usando oculos, magro, barba tem feita, camiseta marrom e um fundo branco.
+                        " class="img_cartunista" />
                     </div>
                     <div class="col-lg-6 col-md-12 col-sm-0">
                         <p>
-
-                            Autor de obras aclamadas e premiadas como <strong>“Os Tomos de Tessa”, “Salto”, “Silas”,
-                                “Mesa 44”,
-                                “Travessia e Ecos”, “Rua”, “O Mago e a Tempestade”</strong>, além de diversos projetos
-                            menores e
-                            colaborativos, que receberam críticas positivas. Também organiza a coleção Inko, que reúne
-                            trabalhos dos veteranos da escola, preservando a memória e legado dos artistas consagrados.
-
+                            <b>Rapha Pinheiro</b>
+                        </p>
+                        <p>
+                            Sua paixão pela escrita o levou a criar obras aclamadas como “Os Tomos de Tessa”, “Salto”, “Silas”, “Mesa 44”, “Travessia e Ecos”, “Rua”, “O Mago e a Tempestade”, além de diversos projetos menores e colaborativos.
                         </p>
                         <button onclick="window.location.href='rapha.php'">Veja mais</button>
                     </div>
                 </div>
                 <div class="row col-lg-6 col-md-6 col-sm-0">
                     <div class=" col-lg-6 col-md-12 col-sm-0">
-                        <img src="imagens/natalia.webp" width="300" height="300" alt="" />
+                        <img src="imagens/natalia.webp" width="300" height="300" alt="Mascote da FateconHQs! com o nome do evento 'FateconHQs!' abaixo dele. No centro da imagem, há fotos das obras da cartunista Natalia Sierpinski. No canto inferior direito, em destaque, está a foto da cartunista, branca, de oculos, sorrindo, cabelos pretos e camiseta rosa com um fundo branco " class="img_cartunista" />
                     </div>
                     <div class="col-lg-6 col-md-12 col-sm-0">
                         <p>
-                            Desde 2014, Natalia vem se dedicando ao estudo da relação entre gênero e histórias em
-                            quadrinhos, explorando a representação e inclusão de diversas identidades. Ela colabora com
-                            artigos e ensaios para os sites <strong>Garotas Nerds e Minas Nerds</strong>, compartilhando
-                            seu conhecimento
-                            e perspectivas únicas sobre empoderamento feminino e diversidade na cultura nerd.
+                            <b>Natalia Sierpinski</b>
+                        </p>
+                        <p>
+                            É licenciada em Educomunicação, onde desenvolveu um projeto inovador que utiliza as HQs como ferramenta para discutir questões de gênero nas escolas.
                         </p>
                         <button onclick="window.location.href='natalia.php'">Veja mais</button>
                     </div>
@@ -82,39 +78,35 @@
 
             <figure class="banner_cartunistas">
                 <a href="https://www.instagram.com/stories/highlights/18204866779216593/" target="_blank">
-                    <img src="imagens/Banner_cartunistas_02.webp" width="1296" height="106" alt="" />
+                    <img src="imagens/Banner_cartunistas_02.webp" width="1296" height="106" alt="banner" class="img-banner" />
                 </a>
             </figure>
 
             <div class="row mt-3 justify-content-center">
                 <div class="row col-lg-6 col-md-6 col-sm-0">
                     <div class="col-lg-6 col-md-12 col-sm-0">
-                        <img src="imagens/daniel.webp" width="300" height="300" alt="" />
+                        <img src="imagens/daniel.webp" width="300" height="300" alt="Mascote da FateconHQs! com o nome do evento 'FateconHQs!' abaixo dele. No centro da imagem, há fotos das obras do cartunista Daniel Esteves. No canto inferior direito, em destaque, está a foto do cartunista, branco, sorrindo, cabelos e barba acizentados, aparentemente sendo entrevistado com o fundo sendo um telão." class="img_cartunista" />
                     </div>
                     <div class="col-lg-6  col-md-12 col-sm-0">
                         <p>
-                            É o criador da série <strong>Nanquim Descartável</strong>, uma obra que cativou os leitores
-                            de 2007 a 2015.
-                            Com roteiros escritos por ele e ilustrações de uma equipe diversificada, incluindo Wanderson
-                            de Souza, Wagner de Souza, Alex Rodrigues, Mario Cau, Júlio Brilha, Mário César e Fred
-                            Hildebrand, a série conquistou reconhecimento pelo seu estilo único e narrativas
-                            envolventes.
+                            <b>Daniel Esteves</b>
+                        </p>
+                        <p>
+                            Além de sua prolífica carreira como autor de quadrinhos, Daniel Esteves é também um empreendedor e educador dedicado. Ele fundou a editora independente Zapata Edições.
                         </p>
                         <button onclick="window.location.href='daniel.php'">Veja mais</button>
                     </div>
                 </div>
                 <div class="row col-lg-6 col-md-6 col-sm-0">
                     <div class="col-lg-6 col-md-12 col-sm-0">
-                        <img src="imagens/jefferson.webp" width="300" height="300" alt="" />
+                        <img src="imagens/jefferson.webp" width="300" height="300" alt="Mascote da FateconHQs! com o nome do evento 'FateconHQs!' abaixo dele. No centro da imagem, há fotos das obras do cartunista Jefferson Costa. No canto inferior direito, em destaque, está a foto do cartunista, moreno, cabelo escuro, vestindo uma blusa preta, barba bem feita, com um fundo branco. " class="img_cartunista" />
                     </div>
                     <div class="col-lg-6 col-md-12 col-sm-0">
                         <p>
-                            Jefferson Costa, notável autor sob o selo Graphic MSP, lançou duas obras premiadas:
-                            Jeremias - Pele (2018) e Jeremias - Alma (2020). Em 2019, ele escreveu e desenhou
-                            Roseira, Medalha, Engenho e outras histórias, que ganhou o ,<strong>Troféu HQMix
-                                2020</strong>, um dos mais
-                            prestigiosos prêmios do quadrinho brasileiro. Além disso, colaborou no livro ilustrado
-                            Anansi, escrito por Lucas Benetti.
+                            <b>Jerfferson Costa</b>
+                        </p>
+                        <p>
+                            artista versátil que tem deixado sua marca em diversas áreas, incluindo ilustração, storyboard, e desenho de personagens e cenários para animações de destaque.
                         </p>
                         <button onclick="window.location.href='jefferson.php'">Veja mais</button>
                     </div>
@@ -125,67 +117,56 @@
 
                 <figure class="banner_cartunistas">
                     <a href="https://www.instagram.com/stories/highlights/18204866779216593/" target="_blank">
-                        <img src="imagens/Banner_cartunistas_03.webp" width="1296" height="106" alt="" />
+                        <img src="imagens/Banner_cartunistas_03.webp" width="1296" height="106" alt="banner" class="img-banner" />
                     </a>
                 </figure>
 
                 <div class="row mt-3 justify-content-center">
                     <div class="row col-lg-6 col-md-6 col-sm-0">
                         <div class="col-lg-6 col-md-12 col-sm-0">
-                            <img src="imagens/gilmar.webp" width="300" height="300" alt="" />
+                            <img src="imagens/gilmar.webp" width="300" height="300" alt="Mascote da FateconHQs! com o nome do evento 'FateconHQs!' abaixo dele. No centro da imagem, há fotos das obras do cartunista Gilmar o cartunista das cavernas. No canto inferior direito, em destaque, está a foto do cartunista, branco, usando oculos, barba branca, cabelo preto, camiseta preta, segurando a imagem de um desenho em um fundo repleto de desenhos. " class="img_cartunista" />
                         </div>
                         <div class="col-lg-6 col-md-12 col-sm-0">
                             <p>
-                                Um cartunista renomado, seus desenhos são amplamente reconhecidos em jornais, revistas e
-                                livros. Ele já lançou dez impressionantes livros de tiras e quadrinhos, com <strong>três
-                                    deles
-                                    sendo selecionados pelo governo para serem distribuídos em bibliotecas
-                                    públicas</strong>. Seu
-                                trabalho mais recente, Entre Quatro Contos, é uma obra-prima.
+                                <b>Gilmar</b>
+                            </p>
+                            <p>
+                                Sua contribuição para o mundo dos quadrinhos não passou despercebida. Foi honrado com o prestigiado prêmio HQ MIX de melhor cartunista brasileiro.
                             </p>
                             <button onclick="window.location.href='gilmar.php'">Veja mais</button>
                         </div>
                     </div>
                     <div class="row col-lg-6 col-md-6 col-sm-0">
                         <div class="col-lg-6 col-md-12 col-sm-0">
-                            <img src="imagens/guilherme.webp" width="300" height="300" alt="" />
+                            <img src="imagens/guilherme.webp" width="300" height="300" alt="Mascote da FateconHQs! com o nome do evento 'FateconHQs!' abaixo dele. No centro da imagem, há fotos das obras do cartunista Guilherme infante. No canto inferior direito, em destaque, está a foto do cartunista, branco, de cabelos escuros, barba bem feita, utilisando uma camisa florida e um bone vermelho, ao seu fundo percebos existem figuras que indicam que está sendo entrevistado " class="img_cartunista" />
                         </div>
                         <div class="col-lg-6 col-md-12 col-sm-0">
                             <p>
-                                Um famoso quadrinista brasileiro se destacou com seu personagem
-                                <strong>Capirotinho</strong>, um diabo
-                                sarcástico que dá conselhos perspicazes. Suas tiras no Facebook tiveram um crescimento
-                                significativo de fãs, saltando de 16 mil em 2014 para impressionantes 115 mil em 2017.
-                                Este aumento notável evidencia sua popularidade e o impacto duradouro de seu trabalho na
-                                comunidade de quadrinhos.
+                                <b>Guilherme Infante</b>
+                            </p>
+                            <p>
+                                Em 2021, Infante ganhou o Prêmio Angelo Agostini de melhor web quadrinho por seu trabalho nas tiras do Capirotinho
                             </p>
                             <button onclick="window.location.href='guilherme.php'">Veja mais</button>
                         </div>
                     </div>
-
                     <hr>
-
                     <figure class="banner_cartunistas">
                         <a href="https://www.instagram.com/stories/highlights/18204866779216593/" target="_blank">
-                            <img src="imagens/Banner_cartunistas_04.webp" width="1296" height="106" alt="" />
+                            <img src="imagens/Banner_cartunistas_04.webp" width="1296" height="106" alt="banner" class="img-banner" />
                         </a>
                     </figure>
-
                     <div class="row mt-3 justify-content-center">
                         <div class="row col-lg-6 col-md-6 col-sm-0">
                             <div class="col-lg-6 col-md-12 col-sm-0">
-                                <img src="imagens/cecilia.webp" width="300" height="300" alt="" />
+                                <img src="imagens/cecilia.webp" width="300" height="300" alt="Mascote da FateconHQs! com o nome do evento 'FateconHQs!' abaixo dele. No centro da imagem, há fotos das obras da cartunista Cecilia Martins. No canto inferior direito, em destaque, está a foto da cartunista, branca, de oculos, cabelo preto, sorrindo, apoiando o rosto com a mão direita enquanto está sentada em uma cadeira de estofamento vermelho e debruçada sobre uma mesa branca, vestida com uma roupa escura com detalhes marelos, seu fundo percemos uma lampada e um fundo roxo." class="img_cartunista" />
                             </div>
                             <div class="col-lg-6 col-md-12 col-sm-0">
                                 <p>
-                                    Como parte de uma equipe internacional, ela desempenhou um papel fundamental em
-                                    levar o
-                                    jornalismo em quadrinhos brasileiro além-fronteiras com a reportagem <strong>“Favela
-                                        vs.
-                                        COVID-19”</strong>. Esta colaboração com o portal polonês Outride foi
-                                    reconhecida
-                                    com o prêmio de melhor reportagem de saúde pelo prestigioso International Center For
-                                    Journalists.
+                                    <b>Cecilia Martins</b>
+                                </p>
+                                <p>
+                                    Sua habilidade como ilustradora também brilhou no documentário AmarElo”, uma produção do Emicida para a Netflix, que recebeu uma merecida indicação ao Emmy Internacional.
                                     <button onclick="window.location.href='cecilia.php'">Veja mais</button>
                                 </p>
 
@@ -193,14 +174,14 @@
                         </div>
                         <div class="row col-lg-6 col-md-6 col-sm-0">
                             <div class="col-lg-6 col-md-12 col-sm-0">
-                                <img src="imagens/marcel.webp" width="300" height="300" alt="" />
+                                <img src="imagens/marcel.webp" width="300" height="300" alt="Mascote da FateconHQs! com o nome do evento 'FateconHQs!' abaixo dele. No centro da imagem, há fotos das obras do cartunista Marcel Bartholo. No canto inferior direito, em destaque, está a foto do cartunista, branco, de oculos arredondados e escuros, barba alta por fazer, sorrindo, com um fundo branco onde se percebe alguns desenhos nele." class="img_cartunista" />
                             </div>
                             <div class="col-lg-6 col-md-12 col-sm-0">
                                 <p>
-                                    Desde 2016, um artista talentoso brilha nos quadrinhos independentes, incluindo a
-                                    trilogia de terror Carniça, Lama e Canil, em parceria com Rodrigo Ramos. Recebeu
-                                    prêmio por O Santo Sangue no <strong>HQ Mix 2019</strong>. Também foi indicado como melhor desenhista
-                                    e colorista por A Necromante em premiações renomadas como <strong>HQ Mix e Ângelo Agostini</strong>.
+                                    <b>Marcel Bartholo</b>
+                                </p>
+                                <p>
+                                    Originário da pitoresca cidade de Teresópolis, na região serrana do Rio de Janeiro, este artista talentoso é conhecido por sua versatilidade, atuando como ilustrador, quadrinista e artista plástico.
                                     <button onclick="window.location.href='marcel.php'">Veja mais</button>
                                 </p>
                             </div>

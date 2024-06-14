@@ -34,6 +34,7 @@ ul li {
 ul li a:hover {
   background-color: var(--rosa);
   border-radius: 30px;
+  padding: 0;
 }
 
 nav ul li a.selecionado {
@@ -179,3 +180,41 @@ footer a {
   display: flex;
   justify-content: center;
 }
+
+@media (min-width: 1200px) and (max-width: 1399px) {
+  .img_cartunista{
+      width: 250px;
+      height: 250px;
+      
+  }
+  .img-banner{
+    padding-right: 10em;
+  }
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+  .img_cartunista{
+      width: 210px;
+      height: 210px;
+      
+  }
+  .img-banner{
+    padding-right: 20em;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 992px) {
+ 
+  .img-banner{
+    padding-right: 37em;
+  }
+}
+
+@media (max-width: 767px) {
+ 
+  .img-banner{
+    padding-right: 47em;
+  }
+  
+}
+

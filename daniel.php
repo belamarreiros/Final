@@ -12,7 +12,7 @@
         <article>
             <hr>
             <figure>
-                <img src="https://placehold.co/1000x100/000000/FFF" alt="">
+                <img src="https://placehold.co/1000x100/000000/FFF" alt="banner">
             </figure>
             <hr>
 
@@ -23,7 +23,7 @@
             <div class="row justify-content-center">
                 <div class="col-lg-6 col-md-6 col-sm-12">
                     <figure>
-                        <img src="https://placehold.co/500x500/000000/FFF" alt="">
+                        <img src="https://placehold.co/500x500/000000/FFF" alt="Imagem representando o cartunista Daniel Esteves">
                     </figure>
                 </div>
                 <div class="col-lg-6 col-md-6 col-sm-12">
@@ -44,7 +44,7 @@
             </div>
             <hr>
             <figure>
-                <img src="https://placehold.co/1200x300/000000/FFF" alt="">
+                <img src="https://placehold.co/1200x300/000000/FFF" alt="banner">
             </figure>
             <hr>
 

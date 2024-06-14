@@ -43,12 +43,12 @@
                 </figure>
             </div>
             <div class="row justify-content-center">
-                <div class="row col-lg-6 col-md-6 col-sm-0">
-                    <div class="col-lg-6 col-md-12 col-sm-0">
+                <div class="row col-lg-6 col-md-6 col-sm-12">
+                    <div class="col-lg-6 col-md-12 col-sm-12">
                         <img src="imagens/rapha.webp" width="300" height="300" alt="Mascote da FateconHQs! com o nome do evento 'FateconHQs!' abaixo dele. No centro da imagem, há fotos das obras do cartunista Raphael Pinheiro. No canto inferior direito, em destaque, está a foto do cartunista, homem branco de cabelos escuto, usando oculos, magro, barba tem feita, camiseta marrom e um fundo branco.
                         " class="img_cartunista" />
                     </div>
-                    <div class="col-lg-6 col-md-12 col-sm-0">
+                    <div class="col-lg-6 col-md-12 col-sm-12">
                         <p>
                             <b>Rapha Pinheiro</b>
                         </p>
@@ -58,11 +58,11 @@
                         <button onclick="window.location.href='rapha.php'">Veja mais</button>
                     </div>
                 </div>
-                <div class="row col-lg-6 col-md-6 col-sm-0">
-                    <div class=" col-lg-6 col-md-12 col-sm-0">
+                <div class="row col-lg-6 col-md-6 col-sm-12">
+                    <div class=" col-lg-6 col-md-12 col-sm-12">
                         <img src="imagens/natalia.webp" width="300" height="300" alt="Mascote da FateconHQs! com o nome do evento 'FateconHQs!' abaixo dele. No centro da imagem, há fotos das obras da cartunista Natalia Sierpinski. No canto inferior direito, em destaque, está a foto da cartunista, branca, de oculos, sorrindo, cabelos pretos e camiseta rosa com um fundo branco " class="img_cartunista" />
                     </div>
-                    <div class="col-lg-6 col-md-12 col-sm-0">
+                    <div class="col-lg-6 col-md-12 col-sm-12">
                         <p>
                             <b>Natalia Sierpinski</b>
                         </p>
@@ -83,11 +83,11 @@
             </figure>
 
             <div class="row mt-3 justify-content-center">
-                <div class="row col-lg-6 col-md-6 col-sm-0">
-                    <div class="col-lg-6 col-md-12 col-sm-0">
+                <div class="row col-lg-6 col-md-6 col-sm-12">
+                    <div class="col-lg-6 col-md-12 col-sm-12">
                         <img src="imagens/daniel.webp" width="300" height="300" alt="Mascote da FateconHQs! com o nome do evento 'FateconHQs!' abaixo dele. No centro da imagem, há fotos das obras do cartunista Daniel Esteves. No canto inferior direito, em destaque, está a foto do cartunista, branco, sorrindo, cabelos e barba acizentados, aparentemente sendo entrevistado com o fundo sendo um telão." class="img_cartunista" />
                     </div>
-                    <div class="col-lg-6  col-md-12 col-sm-0">
+                    <div class="col-lg-6 col-md-12 col-sm-12">
                         <p>
                             <b>Daniel Esteves</b>
                         </p>
@@ -97,11 +97,11 @@
                         <button onclick="window.location.href='daniel.php'">Veja mais</button>
                     </div>
                 </div>
-                <div class="row col-lg-6 col-md-6 col-sm-0">
-                    <div class="col-lg-6 col-md-12 col-sm-0">
+                <div class="row col-lg-6 col-md-6 col-sm-12">
+                    <div class="col-lg-6 col-md-12 col-sm-12">
                         <img src="imagens/jefferson.webp" width="300" height="300" alt="Mascote da FateconHQs! com o nome do evento 'FateconHQs!' abaixo dele. No centro da imagem, há fotos das obras do cartunista Jefferson Costa. No canto inferior direito, em destaque, está a foto do cartunista, moreno, cabelo escuro, vestindo uma blusa preta, barba bem feita, com um fundo branco. " class="img_cartunista" />
                     </div>
-                    <div class="col-lg-6 col-md-12 col-sm-0">
+                    <div class="col-lg-6 col-md-12 col-sm-12">
                         <p>
                             <b>Jerfferson Costa</b>
                         </p>
@@ -122,11 +122,11 @@
                 </figure>
 
                 <div class="row mt-3 justify-content-center">
-                    <div class="row col-lg-6 col-md-6 col-sm-0">
-                        <div class="col-lg-6 col-md-12 col-sm-0">
+                    <div class="row col-lg-6 col-md-6 col-sm-12">
+                        <div class="col-lg-6 col-md-12 col-sm-12">
                             <img src="imagens/gilmar.webp" width="300" height="300" alt="Mascote da FateconHQs! com o nome do evento 'FateconHQs!' abaixo dele. No centro da imagem, há fotos das obras do cartunista Gilmar o cartunista das cavernas. No canto inferior direito, em destaque, está a foto do cartunista, branco, usando oculos, barba branca, cabelo preto, camiseta preta, segurando a imagem de um desenho em um fundo repleto de desenhos. " class="img_cartunista" />
                         </div>
-                        <div class="col-lg-6 col-md-12 col-sm-0">
+                        <div class="col-lg-6 col-md-12 col-sm-12">
                             <p>
                                 <b>Gilmar</b>
                             </p>
@@ -136,11 +136,11 @@
                             <button onclick="window.location.href='gilmar.php'">Veja mais</button>
                         </div>
                     </div>
-                    <div class="row col-lg-6 col-md-6 col-sm-0">
-                        <div class="col-lg-6 col-md-12 col-sm-0">
+                    <div class="row col-lg-6 col-md-6 col-sm-12">
+                        <div class="col-lg-6 col-md-12 col-sm-12">
                             <img src="imagens/guilherme.webp" width="300" height="300" alt="Mascote da FateconHQs! com o nome do evento 'FateconHQs!' abaixo dele. No centro da imagem, há fotos das obras do cartunista Guilherme infante. No canto inferior direito, em destaque, está a foto do cartunista, branco, de cabelos escuros, barba bem feita, utilisando uma camisa florida e um bone vermelho, ao seu fundo percebos existem figuras que indicam que está sendo entrevistado " class="img_cartunista" />
                         </div>
-                        <div class="col-lg-6 col-md-12 col-sm-0">
+                        <div class="col-lg-6 col-md-12 col-sm-12">
                             <p>
                                 <b>Guilherme Infante</b>
                             </p>
@@ -157,11 +157,11 @@
                         </a>
                     </figure>
                     <div class="row mt-3 justify-content-center">
-                        <div class="row col-lg-6 col-md-6 col-sm-0">
-                            <div class="col-lg-6 col-md-12 col-sm-0">
+                        <div class="row col-lg-6 col-md-6 col-sm-12">
+                            <div class="col-lg-6 col-md-12 col-sm-12">
                                 <img src="imagens/cecilia.webp" width="300" height="300" alt="Mascote da FateconHQs! com o nome do evento 'FateconHQs!' abaixo dele. No centro da imagem, há fotos das obras da cartunista Cecilia Martins. No canto inferior direito, em destaque, está a foto da cartunista, branca, de oculos, cabelo preto, sorrindo, apoiando o rosto com a mão direita enquanto está sentada em uma cadeira de estofamento vermelho e debruçada sobre uma mesa branca, vestida com uma roupa escura com detalhes marelos, seu fundo percemos uma lampada e um fundo roxo." class="img_cartunista" />
                             </div>
-                            <div class="col-lg-6 col-md-12 col-sm-0">
+                            <div class="col-lg-6 col-md-12 col-sm-12">
                                 <p>
                                     <b>Cecilia Martins</b>
                                 </p>
@@ -172,11 +172,11 @@
 
                             </div>
                         </div>
-                        <div class="row col-lg-6 col-md-6 col-sm-0">
-                            <div class="col-lg-6 col-md-12 col-sm-0">
+                        <div class="row col-lg-6 col-md-6 col-sm-12">
+                            <div class="col-lg-6 col-md-12 col-sm-12">
                                 <img src="imagens/marcel.webp" width="300" height="300" alt="Mascote da FateconHQs! com o nome do evento 'FateconHQs!' abaixo dele. No centro da imagem, há fotos das obras do cartunista Marcel Bartholo. No canto inferior direito, em destaque, está a foto do cartunista, branco, de oculos arredondados e escuros, barba alta por fazer, sorrindo, com um fundo branco onde se percebe alguns desenhos nele." class="img_cartunista" />
                             </div>
-                            <div class="col-lg-6 col-md-12 col-sm-0">
+                            <div class="col-lg-6 col-md-12 col-sm-12">
                                 <p>
                                     <b>Marcel Bartholo</b>
                                 </p>

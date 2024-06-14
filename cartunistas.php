@@ -2,7 +2,6 @@
 <html lang="pt-BR">
 <!------------------------------------------------- Chamando Head ------------------------------------------------->
 <?php require "includes/head.php"; ?>
-
 <title>CARTUNISTAS</title>
 
 <body>
@@ -13,7 +12,6 @@
             <hr>
             <div class="row justify-content-center">
                 <h1>CARTUNISTAS</h1>
-
                 <p>
                     Um cartunista, também conhecido como cartoonista ou humorista gráfico, é um artista visionário que
                     se especializa em cartum, uma forma de arte que combina humor e crítica para retratar aspectos do
@@ -32,7 +30,6 @@
                 <p>
                     Conheça alguns dos cartunistas que estavam presentes nas Fatecons:
                 </p>
-
             </div>
             <hr>
             <div>
@@ -73,15 +70,12 @@
                     </div>
                 </div>
             </div>
-
             <hr>
-
             <figure class="banner_cartunistas">
                 <a href="https://www.instagram.com/stories/highlights/18204866779216593/" target="_blank">
                     <img src="imagens/Banner_cartunistas_02.webp" width="1296" height="106" alt="banner" class="img-banner" />
                 </a>
             </figure>
-
             <div class="row mt-3 justify-content-center">
                 <div class="row col-lg-6 col-md-6 col-sm-12">
                     <div class="col-lg-6 col-md-12 col-sm-12">
@@ -110,17 +104,13 @@
                         </p>
                         <button onclick="window.location.href='jefferson.php'">Veja mais</button>
                     </div>
-
                 </div>
-
                 <hr class="mt-4">
-
                 <figure class="banner_cartunistas">
                     <a href="https://www.instagram.com/stories/highlights/18204866779216593/" target="_blank">
                         <img src="imagens/Banner_cartunistas_03.webp" width="1296" height="106" alt="banner" class="img-banner" />
                     </a>
                 </figure>
-
                 <div class="row mt-3 justify-content-center">
                     <div class="row col-lg-6 col-md-6 col-sm-12">
                         <div class="col-lg-6 col-md-12 col-sm-12">
@@ -150,9 +140,7 @@
                             <button onclick="window.location.href='guilherme.php'">Veja mais</button>
                         </div>
                     </div>
-
                     <hr class="mt-4">
-
                     <figure class="banner_cartunistas">
                         <a href="https://www.instagram.com/stories/highlights/18204866779216593/" target="_blank">
                             <img src="imagens/Banner_cartunistas_04.webp" width="1296" height="106" alt="banner" class="img-banner" />
@@ -188,9 +176,7 @@
                                 </p>
                             </div>
                         </div>
-
                         <hr>
-
                         <div class="row mt-3 justify-content-center">
                             <p>
                                 Historicamente, os cartunistas sempre foram um meio poderoso de expressão do sentimento
@@ -200,15 +186,11 @@
                                 arte como forma de resistência.
                             </p>
                         </div>
-
         </article>
-
         <!------------------------------------------------- Chamando Footer ------------------------------------------------->
         <?php require "includes/footer.php"; ?>
-
         <!------------------------------------------------- Chamando Java ------------------------------------------------->
         <?php require "includes/java.php"; ?>
-
     </div>
 </body>
 

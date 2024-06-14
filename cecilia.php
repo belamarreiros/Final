@@ -2,32 +2,26 @@
 <html lang="pt-BR">
 <!------------------------------------------------- Chamando Head ------------------------------------------------->
 <?php require "includes/head.php"; ?>
-
 <title>CECILIA MARTINS</title>
-
 <body>
   <div class="container text-center">
     <!------------------------------------------------- Chamando Header ------------------------------------------------->
     <?php require "includes/header_nav.php"; ?>
     <article>
-
       <hr>
       <figure>
         <img src="imagens/banner_cecilia.svg" alt="banner" class="img-banner">
       </figure>
       <hr>
-
       <h1>Cecilia Martins</h1>
       <a href="https://www.instagram.com/ceciliatangerina?igsh=MWJ4emVocm04bzE2NA==" target="_blank"><b>@ceciliatangerina</b></a>
       <hr>
-
       <div class="row justify-content-center">
         <div class="col-lg-6 col-md-6 col-sm-12">
           <figure>
             <img src="imagens/cecilia.jpeg" alt="Imagem representando a cartunista Cecilia Martins" width="500px" height="500px" class="img_cartunista_individual">
           </figure>
         </div>
-
         <div class="col-lg-6 col-md-6 col-sm-12">
           <p>A mente criativa por trás da impactante Reportagem em HQ <strong>“Parque das Luzes”</strong>, esta artista talentosa narra as vivências de mulheres em situação de prostituição no icônico Parque das Luzes, o mais antigo de São Paulo. Sua habilidade como ilustradora também brilhou no documentário <strong>AmarElo”</strong>, uma produção do Emicida para a Netflix, que recebeu uma merecida <strong>indicação ao Emmy Internacional.</strong></p>
           <p>
@@ -38,18 +32,12 @@
           </p>
         </div>
       </div>
-
       <hr>
-
     </article>
-
     <!------------------------------------------------- Chamando Footer ------------------------------------------------->
     <?php require "includes/footer.php"; ?>
-
     <!------------------------------------------------- Chamando Java ------------------------------------------------->
     <?php require "includes/java.php"; ?>
-
   </div>
 </body>
-
 </html>

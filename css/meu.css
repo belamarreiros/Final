@@ -34,7 +34,7 @@ ul li {
 ul li a:hover {
   background-color: var(--rosa);
   border-radius: 30px;
-  padding: 0;
+  padding: auto;
 }
 
 nav ul li a.selecionado {

@@ -27,10 +27,6 @@ nav {
   white-space: nowrap;
 }
 
-ul li {
-  padding: 5px 10px;
-}
-
 /* Estilo quando o mouse passa por cima */
 ul li a:hover {
   background-color: var(--rosa);
@@ -100,14 +96,14 @@ input, textarea {
   border: solid 2px var(--roxo);
   border-radius: 30px;
   padding: 15px;
-  width: 400px;
+  width: 100%;
 }
 
 form input {
   display: flex;
   justify-content: center;
   margin: 5px;
-  width: 400px;
+  width: 100%;
   height: 50px;
 }
 
@@ -163,10 +159,12 @@ footer {
 footer img {
   height: 180px;
   border-radius: 100%;
+  max-width: 100%;
 }
 
 footer a {
-  text-decoration: none;
+  text-decoration: none; 
+  max-width: 100%;
 }
 
 .a_footer {
@@ -176,10 +174,6 @@ footer a {
 
 .a_footer:hover {
   color: white;
-}
-
-.a_footer svg {
-  margin-right: 3px;
 }
 
 .a_footer {
@@ -199,7 +193,7 @@ footer a {
 
 /*--------------------------------------------  Configurações de media query --------------------------------------------*/
 
-@media (min-width: 1200px) and (max-width: 1399px) {
+@media (min-width: 1200px) and (max-width: 1599px) {
   .img_cartunista{
       width: 250px;
       height: 250px;
@@ -208,6 +202,9 @@ footer a {
   .img-banner{
     max-width: 100%; /* Ajusta a largura máxima para o tamanho do contêiner pai */
     height: auto; /* Mantém a proporção original da imagem */
+  }
+  footer a {
+    margin: 6px;
   }
 }
 
@@ -226,7 +223,7 @@ footer a {
   }
 }
 
-@media (min-width: 768px) and (max-width: 992px) {
+@media (min-width: 768px) and (max-width: 991px) {
  
   .img-banner{
     max-width: 100%; /* Ajusta a largura máxima para o tamanho do contêiner pai */

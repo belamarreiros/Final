@@ -18,11 +18,11 @@
             <div class="row mt-3 justify-content-center">
 
                 <div class="col-lg-3 col-md-4 col-sm-12">
-                    <img src="imagens/bruno.webp" alt="Homem branco, de cabelos escuros, vestindo uma blusa cinza com um escrito no peito ilegivel, barba por fazer, de fundo paredes cinzas, um balcão preto com uma tc pendurada na parede e banquetas brancas ao balcão." class="img-fluid">
+                    <img src="imagens/bruno.webp" alt="Homem branco, de cabelos escuros, vestindo uma blusa cinza com um escrito no peito ilegivel, barba por fazer, de fundo paredes cinzas, um balcão preto com uma tc pendurada na parede e banquetas brancas ao balcão." class="img-fluid mt-3">
                 </div>
 
                 <div class="col-lg-7 col-md-8 col-sm-12">
-                    <h2>Nome: Bruno Silveira Mello Bifano</h2>
+                    <h2 class="mt-3">Nome: Bruno Silveira Mello Bifano</h2>
                     <p>Funções no grupo:</p>
                     <p>HTML, CSS de algumas páginas.</p>
                     <p>RA: 2650832323004</p>
@@ -41,11 +41,11 @@
             <div class="row mt-3 justify-content-center">
 
                 <div class="col-lg-3 col-md-4 col-sm-12">
-                    <img src="imagens/fellipe.webp" alt="Homem moreno, de cabelos escuros, barba bem feita, usando uma camisa roza lisa, sorrindo, ao fundo um campo verde com arvores e uma construção, bem acabada com luzaes amarelas em seu interior." class="img-fluid">
+                    <img src="imagens/fellipe.webp" alt="Homem moreno, de cabelos escuros, barba bem feita, usando uma camisa roza lisa, sorrindo, ao fundo um campo verde com arvores e uma construção, bem acabada com luzaes amarelas em seu interior." class="img-fluid mt-3">
                 </div>
 
                 <div class="col-lg-7 col-md-8 col-sm-12">
-                    <h2>Nome: Fellipe Fernandes da Silva Gomes</h2>
+                    <h2 class="mt-3">Nome: Fellipe Fernandes da Silva Gomes</h2>
                     <p>Funções no grupo:</p>
                     <p>HTML, CSS, Wireframe e um maior foco no tratamento das imagens e design da página.</p>
                     <p>RA: 2650832323022</p>
@@ -76,11 +76,11 @@
             <div class="row mt-3 justify-content-center">
 
                 <div class="col-lg-3 col-md-4 col-sm-12">
-                    <img src="imagens/iza.webp" alt="Mulher branca de cabelos escuros e longos, usando oculos com uma camisa de manga comprida branca, utilizando um smartwatch, segurando e olhando para um tablet com um logotipo da Apple na parte de trás, sentada com os braços apoiados em uma mesa de mogno. O fundo parece ser um ambiente interno com um tom acastanhado." class="img-fluid">
+                    <img src="imagens/iza.webp" alt="Mulher branca de cabelos escuros e longos, usando oculos com uma camisa de manga comprida branca, utilizando um smartwatch, segurando e olhando para um tablet com um logotipo da Apple na parte de trás, sentada com os braços apoiados em uma mesa de mogno. O fundo parece ser um ambiente interno com um tom acastanhado." class="img-fluid mt-3">
                 </div>
 
                 <div class="col-lg-7 col-md-8 col-sm-12">
-                    <h2>Nome: Izabela Fernanda Marreiros Vagner</h2>
+                    <h2 class="mt-3">Nome: Izabela Fernanda Marreiros Vagner</h2>
                     <p>Funções no grupo:</p>
                     <p>HTML, CSS, wireframe e um maior foco na utilização do figma para estruturações de todas as páginas
                         (mockups)</p>
@@ -105,12 +105,12 @@
             <div class="row mt-3 justify-content-center">
 
                 <div class="col-lg-3 col-md-4 col-sm-12">
-                    <img src="imagens/rhomer.webp" alt="Homem brancco de cabelos esuros, barba bem feita, usando uma camisa verde, olhando para frente em seu fundo arvores, folhas, galhos e um lago." class="img-fluid">
+                    <img src="imagens/rhomer.webp" alt="Homem brancco de cabelos esuros, barba bem feita, usando uma camisa verde, olhando para frente em seu fundo arvores, folhas, galhos e um lago." class="img-fluid mt-3">
                 </div>
 
                 <div class="col-lg-7 col-md-8 col-sm-12">
 
-                    <h2>Nome: Renato Rhomer Souza de Oliveira</h2>
+                    <h2 class="mt-3">Nome: Renato Rhomer Souza de Oliveira</h2>
                     <p>Funções no grupo:</p>
                     <p>HTML, CSS, e um maior foco na semântica e organização do HTML e CSS</p>
                     <p>RA: 2650832323002</p>

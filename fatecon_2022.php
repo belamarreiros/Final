@@ -80,7 +80,7 @@
       </div>
       <div class="row mt-3 justify-content-center">
         <div class="col-lg-4 col-md-4 col-sm-6">
-          <button onclick="window.location.href='https://www.instagram.com/fateconhqs/'" target="_blank">Instagram</button>
+          <button onclick="window.open('https://www.instagram.com/fateconhqs/', '_blank')">Instagram</button>
         </div>
       </div>
 

@@ -105,7 +105,7 @@
             <div class="row mt-3 justify-content-center">
 
                 <div class="col-lg-3 col-md-4 col-sm-12">
-                    <img src="imagens/rhomer.webp" alt="Homem brancco de cabelos esuros, barba bem feita, usando uma camisa verde, olhando para frente em seu fundo arvores, folhas, galhos e um lago." class="img-fluid mt-3">
+                    <img src="imagens/rhomer.webp" alt="Homem branco de cabelos esuros, barba bem feita, usando uma camisa verde, olhando para frente. Em seu fundo arvores, folhas, galhos e um lago." class="img-fluid mt-3">
                 </div>
 
                 <div class="col-lg-7 col-md-8 col-sm-12">

@@ -206,6 +206,21 @@ footer a {
   footer a {
     margin: 6px;
   }
+  .rubens1 {
+    width: 400px;
+  }
+  .rubens2 {
+    width: 300px;
+  }
+  .rubens3 {
+    width: 250px;
+  }
+  .quadrinhos {
+    width: 250px;
+  }
+  .desenho_nos {
+    width: 500px;
+  }
 }
 
 @media (min-width: 992px) and (max-width: 1199px) {
@@ -220,6 +235,21 @@ footer a {
   .img_cartunista_individual {
     width: 400px;
     height: 400px;
+  }
+  .rubens1 {
+    width: 500px;
+  }
+  .rubens2 {
+    width: 400px;
+  }
+  .rubens3 {
+    width: 300px;
+  }
+  .quadrinhos {
+    width: 350px;
+  }
+  .desenho_nos {
+    width: 500px;
   }
 }
 

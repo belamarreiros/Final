@@ -14,7 +14,7 @@
             <div class="row mt-3 justify-content-center">
                 <div class="col-lg-6 col-md-6 col-sm-9">
                     <figure>
-                        <img src="imagens/rubens1.webp" alt="" class="img-fluid">
+                        <img src="imagens/rubens1.webp" alt="" class="img-fluid rubens1">
                     </figure>
                 </div>
                 <div class="col-lg-5 col-md-6 col-sm-9">
@@ -51,7 +51,7 @@
                 </div>
                 <div class="col-lg-5 col-md-4 col-sm-9">
                     <figure>
-                        <img src="imagens/rubens2.webp" alt="" class="img-fluid">
+                        <img src="imagens/rubens2.webp" alt="" class="img-fluid rubens2">
                     </figure>
                 </div>
                 <hr>
@@ -59,7 +59,7 @@
 
                 <div class="col-lg-4 col-md-4 col-sm-9">
                     <figure>
-                        <img src="imagens/rubens3.webp" alt="" class="img-fluid">
+                        <img src="imagens/rubens3.webp" alt="" class="img-fluid rubens3">
                     </figure>
                 </div>
                 <div class="col-lg-5 col-md-8 col-sm-9">
@@ -77,7 +77,7 @@
             <div class="row justify-content-center mt-3">
                 <h2>Quadrinhos:</h2>
                 <div class="col-lg-3 col-md-4 col-sm-10 mt-5">
-                    <img src="imagens/urubus.webp" alt="Imagem com Placeholder" class="img-fluid">
+                    <img src="imagens/urubus.webp" alt="Imagem com Placeholder" class="img-fluid quadrinhos">
                 </div>
                 <div class="col-lg-8 col-md-8 col-sm-12 mt-3">
                     <p>
@@ -92,7 +92,7 @@
 
             <div class="row justify-content-center mt-3">
                 <div class="col-lg-3 col-md-4 col-sm-10 mt-5">
-                    <img src="imagens/mexericas.webp" alt="Imagem com Placeholder" class="img-fluid">
+                    <img src="imagens/mexericas.webp" alt="Imagem com Placeholder" class="img-fluid quadrinhos">
                 </div>
                 <div class="col-lg-8 col-md-8 col-sm-12 mt-3">
                     <p>
@@ -108,7 +108,7 @@
 
             <div class="row justify-content-center mt-3">
                 <div class="col-lg-3 col-md-4 col-sm-10 mt-5">
-                    <img src="imagens/consumidores.webp" alt="Imagem com Placeholder" class="img-fluid">
+                    <img src="imagens/consumidores.webp" alt="Imagem com Placeholder" class="img-fluid quadrinhos">
                 </div>
                 <div class="col-lg-8 col-md-8 col-sm-12 mt-3">
                     <p>
@@ -139,7 +139,7 @@
                 </div>
                 <div class="col-lg-7 col-md-8 col-sm-10">
                     <figure>
-                        <img src="imagens/desenho_nos.webp" alt="" class="img-fluid">
+                        <img src="imagens/desenho_nos.webp" alt="" class="img-fluid desenho_nos">
                     </figure>
                 </div>
 

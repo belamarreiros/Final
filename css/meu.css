@@ -192,7 +192,7 @@ footer a {
 
 /*--------------------------------------------  Configurações de media query --------------------------------------------*/
 
-@media (min-width: 1200px) and (max-width: 1599px) {
+@media (min-width: 1200px) and (max-width: 5599px) {
   .img_cartunista{
       width: 250px;
       height: 250px;

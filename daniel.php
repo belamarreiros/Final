@@ -3,6 +3,7 @@
 <!------------------------------------------------- Chamando Head ------------------------------------------------->
 <?php require "includes/head.php"; ?>
 <title>DANIEL ESTEVES</title>
+
 <body>
     <div class="container text-center">
         <!------------------------------------------------- Chamando Header ------------------------------------------------->
@@ -10,7 +11,7 @@
         <article>
             <hr>
             <figure>
-                <img src="imagens/banner_daniel.svg" alt="banner" class="img-banner">
+                <img src="imagens/banner_daniel.webp" alt="banner" class="img-banner">
             </figure>
             <hr>
             <h1>Daniel Esteves</h1>

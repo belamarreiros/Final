@@ -12,7 +12,7 @@
         <article>
             <hr>
             <figure>
-                <img src="imagens/banner_marcel.svg" alt="" class="img-banner">
+                <img src="imagens/banner_marcel.webp" alt="" class="img-banner">
             </figure>
             <hr>
             <h1>Marcel Bartholo</h1>
@@ -50,4 +50,5 @@
 
     </div>
 </body>
+
 </html>

@@ -5,7 +5,7 @@ $current_page = basename($_SERVER['PHP_SELF']);
 <header class="row">
 
   <a href="index.php" class="image-button">
-    <img src="imagens/banner_header.svg" alt="Arte de uma senhora branca com o capuz cobrindo boa parte do seu cabelo branco. Ela é bem enrugada e usa óculos redondos. Tanto do lado esquerdo quanto direito dela, há lobos com a língua para fora, parecendo ser amigáveis. Esta arte fica do lado esquerdo da imagem. Mais ao centro, cobrindo o restante da imagem, está escrito o nome do grupo que criou o site: 'Lobos Dengosos de Meias da Vovó Carmela'." class="img-fluid">
+    <img src="imagens/banner_header.webp" alt="Arte de uma senhora branca com o capuz cobrindo boa parte do seu cabelo branco. Ela é bem enrugada e usa óculos redondos. Tanto do lado esquerdo quanto direito dela, há lobos com a língua para fora, parecendo ser amigáveis. Esta arte fica do lado esquerdo da imagem. Mais ao centro, cobrindo o restante da imagem, está escrito o nome do grupo que criou o site: 'Lobos Dengosos de Meias da Vovó Carmela'." class="img-fluid">
   </a>
 
 </header>

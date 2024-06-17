@@ -31,7 +31,7 @@
             </div>
             <hr>
             <figure>
-                <img src="imagens/banner_rubens.svg" alt="" class="img-banner">
+                <img src="imagens/banner_rubens.webp" alt="" class="img-banner">
             </figure>
             <hr>
 
@@ -134,7 +134,7 @@
 
                 <div class="col-lg-12 col-md-12 col-sm-12">
                     <figure>
-                        <img src="imagens/desenhos_rubens.svg" alt="" class="img-fluid">
+                        <img src="imagens/desenhos_rubens.webp" alt="" class="img-fluid">
                     </figure>
                 </div>
                 <div class="col-lg-7 col-md-8 col-sm-10">

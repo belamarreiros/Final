@@ -3,6 +3,7 @@
 <!------------------------------------------------- Chamando Head ------------------------------------------------->
 <?php require "includes/head.php"; ?>
 <title>CECILIA MARTINS</title>
+
 <body>
   <div class="container text-center">
     <!------------------------------------------------- Chamando Header ------------------------------------------------->
@@ -10,7 +11,7 @@
     <article>
       <hr>
       <figure>
-        <img src="imagens/banner_cecilia.svg" alt="banner" class="img-banner">
+        <img src="imagens/banner_cecilia.webp" alt="banner" class="img-banner">
       </figure>
       <hr>
       <h1>Cecilia Martins</h1>
@@ -40,4 +41,5 @@
     <?php require "includes/java.php"; ?>
   </div>
 </body>
+
 </html>

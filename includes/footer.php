@@ -4,7 +4,7 @@
     <div class="row mt-3 justify-content-center">
 
       <div class="col-lg-3 col-md-2 col-sm-12">
-        <img src="imagens/LogoPPSI-II.svg" alt="Logo do site. Uma vovózinha cercada de lobos fofos, todos usando meias e a vovó está de óculos de grau.">
+        <img src="imagens/LogoPPSI-II.webp" alt="Logo do site. Uma vovózinha cercada de lobos fofos, todos usando meias e a vovó está de óculos de grau.">
       </div>
 
       <div class="col-lg-9 col-md-10 col-sm-6">

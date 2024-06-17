@@ -3,6 +3,7 @@
 <!------------------------------------------------- Chamando Head ------------------------------------------------->
 <?php require "includes/head.php"; ?>
 <title>NATALIA SERPINSKI</title>
+
 <body>
   <div class="container text-center">
     <!------------------------------------------------- Chamando Header ------------------------------------------------->
@@ -10,7 +11,7 @@
     <article>
       <hr>
       <figure>
-        <img src="imagens/banner_natalia.svg" alt="" class="img-banner">
+        <img src="imagens/banner_natalia.webp" alt="" class="img-banner">
       </figure>
       <hr>
       <h1>Natalia Serpinski</h1>
@@ -42,4 +43,5 @@
     <?php require "includes/java.php"; ?>
   </div>
 </body>
+
 </html>

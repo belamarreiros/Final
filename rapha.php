@@ -3,6 +3,7 @@
 <!------------------------------------------------- Chamando Head ------------------------------------------------->
 <?php require "includes/head.php"; ?>
 <title>RAPHA PINHEIROS</title>
+
 <body>
   <div class="container text-center">
     <!------------------------------------------------- Chamando Header ------------------------------------------------->
@@ -10,7 +11,7 @@
     <article>
       <hr>
       <figure>
-        <img src="imagens/banner_rapha.svg" alt="" class="img-banner">
+        <img src="imagens/banner_rapha.webp" alt="" class="img-banner">
       </figure>
       <hr>
       <h1>Rapha Pinheiros</h1>
@@ -48,4 +49,5 @@
     <?php require "includes/java.php"; ?>
   </div>
 </body>
+
 </html>

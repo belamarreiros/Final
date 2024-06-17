@@ -10,11 +10,13 @@
     <!------------------------------------------------- Chamando Header ------------------------------------------------->
     <?php require "includes/header_nav.php"; ?>
     <article>
+      <hr>
       <h2>Veja algumas fotos do evento:</h2>
 
 
 
       <div class="row justify-content-center">
+        <hr class="mt-2">
 
         <div class="col-lg-3 col-md-3 col-sm-6 mt-3">
           <img src="imagens/Fatec_2022_1.webp" width="300" height="300" alt="Mural colorido com um personagem de desenho animado com cabelo azul, óculos grandes, camiseta vermelha e capa preta, sobre um fundo rosa e amarelo com estrelas e outros detalhes decorativos." class="img-fluid">
@@ -68,6 +70,22 @@
           <img src="imagens/Fatec_2022_12.webp" width="300" height="300" alt="Pessoa segurando um livro intitulado 'Os consumidores selvagens e a ascenção dos palhaços'. Ao fundo, outros livros ou quadrinhos estão desfocados, com títulos como 'Alice'. A pessoa está usando uma pulseira de metal no pulso direito." class="img-fluid">
         </div>
       </div>
+      <hr>
+      <div class="row mt-3 justify-content-center">
+        <div class="col-lg-10 col-md-10 col-sm-12">
+          <p>
+            Para mais imagens da Fatecon de 2022, temos o instagram da página, ao clicar no botão abaixo, você será redirecionado a ela.
+          </p>
+        </div>
+      </div>
+      <div class="row mt-3 justify-content-center">
+        <div class="col-lg-4 col-md-4 col-sm-6">
+          <button onclick="window.location.href='https://www.instagram.com/fateconhqs/'" target="_blank">Instagram</button>
+        </div>
+      </div>
+
+      <hr>
+
     </article>
 
     <!------------------------------------------------- Chamando Footer ------------------------------------------------->

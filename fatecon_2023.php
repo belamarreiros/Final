@@ -10,11 +10,13 @@
     <!------------------------------------------------- Chamando Header ------------------------------------------------->
     <?php require "includes/header_nav.php"; ?>
     <article>
+      <hr>
       <h2>Veja algumas fotos do evento:</h2>
 
 
 
       <div class="row justify-content-center">
+        <hr class="mt-2">
 
         <div class="col-lg-3 col-md-3 col-sm-6 mt-3">
           <img src="imagens/Fatec_2023_1.webp" width="300" height="300" alt="Dois homens sorrindo. O homem à esquerda tem cabelo grisalho, barba cheia, usa óculos e uma jaqueta preta com listras vermelhas. O homem à direita tem cabelo curto, barba escura, usa óculos e uma camiseta preta com a frase 'JÁ LEU UM GIBI HOJE?'. Ao fundo, pessoas e uma mesa com balões amarelos." class="img-fluid">
@@ -68,6 +70,23 @@
           <img src="imagens/Fatec_2023_12.webp" width="300" height="300" alt="Uma pessoa vestida com uma fantasia de motosserra posando para uma foto com duas crianças. A pessoa fantasiada está com uma cabeça de motosserra e lâminas de motosserra nos braços, enquanto as crianças sorriem e posam ao lado. A cena acontece em um espaço fechado com mesas e cadeiras ao fundo." class="img-fluid">
         </div>
       </div>
+
+      <hr>
+      <div class="row mt-3 justify-content-center">
+        <div class="col-lg-10 col-md-10 col-sm-12">
+          <p>
+            Para mais imagens da Fatecon de 2023, temos o instagram da página, ao clicar no botão abaixo, você será redirecionado a ela.
+          </p>
+        </div>
+      </div>
+      <div class="row mt-3 justify-content-center">
+        <div class="col-lg-4 col-md-4 col-sm-6">
+          <button onclick="window.location.href='https://www.instagram.com/fateconhqs/'" target="_blank">Instagram</button>
+        </div>
+      </div>
+
+      <hr>
+
     </article>
     <!------------------------------------------------- Chamando Footer ------------------------------------------------->
     <?php require "includes/footer.php"; ?>

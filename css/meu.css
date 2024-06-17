@@ -157,7 +157,6 @@ footer {
 }
 
 footer img {
-  height: 180px;
   border-radius: 100%;
   max-width: 100%;
 }
@@ -206,6 +205,10 @@ footer a {
   footer a {
     margin: 6px;
   }
+  footer img {
+    height: 180px;
+    width: auto;
+  }
   .rubens1 {
     width: 400px;
   }
@@ -251,6 +254,10 @@ footer a {
   .desenho_nos {
     width: 500px;
   }
+  footer img {
+    height: 180px;
+    width: auto;
+  }
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
@@ -266,6 +273,10 @@ footer a {
   .teste > div {
     flex-basis: 50%; /* Ajusta o tamanho das colunas para dois itens por linha */
   }
+  footer img {
+    height: 100px;
+    width: 220px;
+  }
 }
 
 @media (max-width: 767px) {
@@ -280,5 +291,9 @@ footer a {
   }
   .teste > div {
     flex-basis: 50%; /* Ajusta o tamanho das colunas para dois itens por linha */
+  }
+  footer img {
+    height: 150px;
+    width: auto;
   }
 }

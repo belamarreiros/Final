@@ -64,10 +64,10 @@
         </div>
       </div>
       <div class="row">
-        <div class="mt-5 col-lg-6 col-md-6 col-sm-6">
+        <div class="mt-5 mb-4 col-lg-6 col-md-6 col-sm-0">
           <img src="https://placehold.co/300x400/000000/FFF" alt="" width="300" height="400">
         </div>
-        <div class="mt-5 col-lg-6 col-md-6 col-sm-6">
+        <div class="mt-5 col-lg-6 col-md-6 col-sm-0">
           <p>
             Nós coletamos e utilizamos alguns dados pessoais que pertencem àqueles que utilizam nossos serviços. Ao fazê-lo, agimos na qualidade de <strong>OPERADOR</strong> desses dados e estamos sujeitos às disposições da <strong>Lei Federal n. 13.709/2018 (Lei Geral de Proteção de Dados Pessoais LGPD).</strong>
           </p>
@@ -86,13 +86,13 @@
           <p>
             Para que possamos enviar pesquisas de satisfação aos usuários com o objetivo de melhorar a qualidade dos nossos serviços e dos nossos clientes.
           </p>
-          <p>
-            Além disso, os dados pessoais poderão ser utilizados para o fornecimento de serviços que tenham sido solicitados, para a consecução de qualquer contrato ou para a adoção de quaisquer providências que tenham sido solicitadas, com o intuito de auxiliar as operações diárias e no desempenho da ferramenta.
-          </p>
         </div>
       </div>
       <div class="row">
-        <div class="col-lg-12 col-md-12 ol-sm12">
+        <div class="mt-3 col-lg-12 col-md-12 ol-sm12">
+          <p>
+            Além disso, os dados pessoais poderão ser utilizados para o fornecimento de serviços que tenham sido solicitados, para a consecução de qualquer contrato ou para a adoção de quaisquer providências que tenham sido solicitadas, com o intuito de auxiliar as operações diárias e no desempenho da ferramenta.
+          </p>
           <p>
             Informamos também que, os dados coletados serão tratados com a finalidade de análise estatística, geração de BI, relatórios, fluxo de pessoas e usuários em cada estabelecimento, visando o desenvolvimento de novas ferramentas e informações relevantes para a otimização e melhora dos serviços oferecidos, assim como geração de informações mercadológicas.
           </p>

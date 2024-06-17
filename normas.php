@@ -3,7 +3,7 @@
 <!------------------------------------------------- Chamando Head ------------------------------------------------->
 <?php require "includes/head.php"; ?>
 
-<title>NORMAS</title>
+<title>Politica de privacidade e consentimento de cookies</title>
 
 <body>
 
@@ -12,119 +12,127 @@
     <?php require "includes/header_nav.php"; ?>
     <article>
       <hr>
-      <h1>PRIVACIDADE</h1>
-      <figure>
-        <div class="row">
-          <div class="col col-lg-6">
-            <img src="https://placehold.co/300x800/000000/FFF" alt="">
+      <h1 class="m-4 ">PRIVACIDADE</h1>
+      <div class="row col-lg-12 col-md-12 col-sm-12">
+        <figure class="m-0 p-0 col-lg-6 col-md-6 col-sm-0">
+          <div class="m-0 p-0">
+            <img src="https://placehold.co/300x800/000000/FFF" alt="" class="mt-5" width="300px" height="800">
           </div>
+        </figure>
+        <div class="mt-1 col-lg-6 col-md-6 col-sm-0">
+          <h2 class="mt-4 mb-3">
+            <strong>A POLÍTICA DE PRIVACIDADE</strong>
+          </h2>
+          <p>
+            Levamos sua privacidade a sério e estamos comprometidos com a proteção de seus dados pessoais. Em conformidade com a Lei Geral de Proteção de Dados (LGPD), esta página tem como objetivo informá-lo sobre o uso de cookies e o tratamento de dados em nosso site.
+          </p>
+          <p>
+            Este site respeita as Leis e Normas do ordenamento jurídico brasileiro, estando em pleno alinhamento com a <strong>Lei 12.965/14 (Marco Civil da Internet) e seu Decreto Regulamentador nº 8.771/16.</strong>
+          </p>
+          <p>
+            O intuito da definição da política de privacidade deste software é garantir a segurança da privacidade de nossos usuários, descrevendo nossa política de proteção de dados.
+          </p>
+          <p>
+            Ressaltamos o quão importante é a <strong>TUTELA DA PRIVACIDADE</strong>, ficando demonstrados aqui como serão utilizados, processados e tratados os seus dados, buscando com isso trazer uma melhor experiência de uso de nossos produtos, com maior comodidade, praticidade e usabilidade.
+          </p>
+          <p>
+            Ressaltamos também que, ao concordar com a presente política de privacidade, ficam informado e caracterizado o consentimento livre e expresso do usuário, concordando com toda nossa política para a coleta, armazenamento, tratamento e compartilhamento de dados.
+          </p>
 
-          <div class="col col-lg-6">
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-lg-6 col-md-6 col-sm-0">
+          <h2 class="mt-5 mb-3">1. <strong>O que são cookies?</strong></h2>
+          <p>
+            Cookies são pequenos arquivos de texto que um site salva no seu computador ou dispositivo móvel quando você o visita. Eles são usados para lembrar suas ações e preferências (como login, idioma, tamanho da fonte e outras preferências de exibição) por um período de tempo, então você não precisa reinseri-las sempre que voltar ao site ou navegar de uma página para outra. Cookies também podem ser usados para coletar informações sobre seu comportamento de navegação e oferecer conteúdo mais relevante para você.
+          </p>
+          <p>
+            <b>Utilizamos cookies para:</b>
+          </p>
+          <ul>
+            <li class="list-item text-start">Melhorar sua experiência de navegação, lembrando suas preferências e visitas anteriores.</li>
+            <li class="list-item text-start">Coletar informações analíticas sobre como você usa o site, o que nos ajuda a melhorá-lo.</li>
+            <li class="list-item text-start">Apoiar nossas estratégias de marketing e publicidade.</li>
+          </ul>
+          <p>
+            Você tem o direito de escolher se aceita ou recusa o uso de cookies. No entanto, lembre-se de que optar por não permitir certos tipos de cookies pode afetar sua experiência no site e os serviços que podemos oferecer.
+          </p>
+        </div>
+        <div class="mt-5 col-lg-6 col-md-6 col-sm-0">
+          <img src="https://placehold.co/300x500/000000/FFF" alt="" width="300" height="500">
+        </div>
+      </div>
+      <div class="row">
+        <div class="mt-5 mb-4 col-lg-6 col-md-6 col-sm-0">
+          <img src="https://placehold.co/300x400/000000/FFF" alt="" width="300" height="400">
+        </div>
+        <div class="mt-5 col-lg-6 col-md-6 col-sm-0">
+          <p>
+            Nós coletamos e utilizamos alguns dados pessoais que pertencem àqueles que utilizam nossos serviços. Ao fazê-lo, agimos na qualidade de <strong>OPERADOR</strong> desses dados e estamos sujeitos às disposições da <strong>Lei Federal n. 13.709/2018 (Lei Geral de Proteção de Dados Pessoais LGPD).</strong>
+          </p>
+          <p>
+            Os dados fornecidos por nossos usuários são coletados com as seguintes finalidades:
+          </p>
+          <p>
+            Para que o usuário possa interagir na plataforma com estabelecimentos comerciais.
+          </p>
+          <p>
+            Para que possa realizar compras em nossas plataformas de forma segura.
+          </p>
+          <p>
+            Para que possamos enviar ofertas aos usuários.
+          </p>
+          <p>
+            Para que possamos enviar pesquisas de satisfação aos usuários com o objetivo de melhorar a qualidade dos nossos serviços e dos nossos clientes.
+          </p>
+        </div>
+      </div>
+      <div class="row">
+        <div class="mt-3 col-lg-12 col-md-12 ol-sm12">
+          <p>
+            Além disso, os dados pessoais poderão ser utilizados para o fornecimento de serviços que tenham sido solicitados, para a consecução de qualquer contrato ou para a adoção de quaisquer providências que tenham sido solicitadas, com o intuito de auxiliar as operações diárias e no desempenho da ferramenta.
+          </p>
+          <p>
+            Informamos também que, os dados coletados serão tratados com a finalidade de análise estatística, geração de BI, relatórios, fluxo de pessoas e usuários em cada estabelecimento, visando o desenvolvimento de novas ferramentas e informações relevantes para a otimização e melhora dos serviços oferecidos, assim como geração de informações mercadológicas.
+          </p>
+          <p>
+            Lembre-se de que nem todos os cookies são prejudiciais. Alguns são essenciais para o funcionamento adequado de sites (como cookies de sessão). No entanto, é importante estar ciente dos riscos e tomar medidas para proteger sua privacidade online.
+          </p>
+        </div>
+        <div class="col-lg-12 col-md-12 col-sm-12">
+          <h2 class="m-4">Dados pessoais obtidos de outras formas </h2>
+          <p>Nós coletamos os seguintes dados pessoais de nossos usuários:</p>
+          <ul>
+            <li class="list-item text-start">Endereço de IP, MAC </li>
+            <li class="list-item text-start">Dados de Geolocalização </li>
+            <li class="list-item text-start">Dados de navegação como sites visitados </li>
+          </ul>
+          <p>Estes dados são coletados com as seguintes finalidades: </p>
+          <p>Personalizar a experiência do Usuário.</p>
+          <p>Cumprir determinações legais da Lei do Marco Civil da Internet e LGPD.</p>
+          <div class="col-lg-12 col-md-12 col-sm-12">
+            <h2 class="m-4">Dados sensíveis</h2>
             <p>
-              Os cookies são pequenos arquivos de texto que os sites armazenam no seu dispositivo (como computador, tablet ou smartphone) quando você os visita. Eles desempenham um papel importante na experiência de navegação na web. Vou explicar como funcionam:
+              Não serão coletados dados sensíveis de nossos usuários, assim entendidos aqueles definidos nos arts. 11 e seguintes da Lei de Proteção de Dados Pessoais. Assim, não haverá coleta de dados sobre origem racial ou étnica, convicção religiosa, opinião política, filiação a sindicato ou a organização de caráter religioso, filosófico ou político, dado referente à saúde ou à vida sexual, dado genético ou biométrico, quando vinculado a uma pessoa natural.
             </p>
-            <p>1. <strong>Armazenamento local:</strong></p>
-            <p>Quando você visita um site, ele pode enviar um cookie para o seu navegador. Esse cookie é armazenado localmente no seu dispositivo.
-              O cookie contém informações específicas, como preferências de idioma, configurações de layout, autenticação (login), entre outros.
-              Essas informações são úteis para personalizar sua experiência no site e lembrar suas escolhas.
-            </p>
-            <p>2. <strong>Tipos de cookies:</strong></p>
-            <p><Strong>Cookies de sessão:</Strong> São temporários e são excluídos quando você fecha o navegador. Eles são usados para manter informações enquanto você navega em um site</p>
-            <p><strong>Cookies persistentes:</strong> Permanecem no seu dispositivo por um período específico (determinado pelo site). Eles podem ser usados para lembrar suas preferências em visitas futuras.</p>
-            <p><strong>Cookies de terceiros:</strong> São definidos por domínios diferentes do que você está visitando. Por exemplo, anunciantes podem usar cookies para rastrear sua atividade em vários sites.</p>
-            <p><strong>Cookies essenciais:</strong> São necessários para o funcionamento básico do site, como autenticação e carrinho de compras.</p>
-            <p><strong>Cookies de análise:</strong> Coletam informações sobre como os usuários interagem com o site, ajudando a melhorar a experiência.</p>
-            <p><strong>Cokkies de publicidade:</strong> São usados para exibir anúncios relevantes com base no seu comportamento de navegação.</p>
-            <p>3. <strong>Privacidade e controle:</strong> Você pode gerenciar cookies nas configurações do seu navegador. Pode optar por bloqueá-los, excluí-los ou receber notificações quando um site tentar definir um cookie.
-              Lembre-se de que bloquear todos os cookies pode afetar a funcionalidade de alguns sites.</p>
           </div>
         </div>
+      </div>
 
-        <div class="row">
-          <div class="col col-lg-6">
-            <p>
-              4. <strong>Leis e regulamentações</strong>
-            </p>
-            <p>
-              Muitos países têm leis de privacidade que exigem que os sites informem sobre o uso de cookies e obtenham seu consentimento antes de definir cookies não essenciais.
-              Em resumo, os cookies são ferramentas úteis para melhorar sua experiência online, mas é importante estar ciente de como eles são usados e ter controle sobre suas configurações de privacidade.
-              Os cookies podem apresentar riscos de privacidade, e é importante estar ciente desses aspectos ao navegar na web. Aqui estão alguns dos principais riscos:
-            </p>
-            <p>
-              <strong>Rastreamento de atividades:</strong>
-              Os cookies podem ser usados para rastrear suas atividades online. Isso inclui os sites que você visita, as páginas que visualiza e os produtos que pesquisa.
-            </p>
-            <p>
-              Empresas de publicidade e terceiros podem criar perfis detalhados com base nos dados coletados por meio de cookies. Isso permite que eles personalizem anúncios direcionados para você.
-            </p>
-            <p>
-              <strong>Vazamento de informações pessoais:</strong>
-              Alguns cookies contêm informações pessoais, como seu nome, endereço de e-mail ou preferências.
-              Se esses cookies forem comprometidos (por exemplo, devido a uma violação de segurança), suas informações pessoais podem ser expostas.
-            </p>
-          </div>
-          <div class="col col-lg-6">
-            <img src="https://placehold.co/300x500/000000/FFF" alt="">
-          </div>
-        </div>
 
-        <div class="row">
-          <div class="col col-lg-6">
-            <img src="https://placehold.co/300x400/000000/FFF" alt="">
-          </div>
 
-          <div class="col col-lg-6">
-            <p>
-              <strong>Cookies de terceiros:</strong>
-              Cookies de terceiros são definidos por domínios diferentes daquele que você está visitando. Eles podem ser usados para rastrear sua atividade em vários sites.
-              Isso pode resultar em um perfil detalhado de suas preferências e comportamento online, que é compartilhado entre várias
-            </p>
-            <p>
-              <strong>Cookies maliciosos:</strong>
-              Alguns cookies podem ser usados para fins maliciosos, como roubo de informações de login, ataques de phishing ou redirecionamento para sites fraudulentos.
-              É importante ter cuidado ao aceitar cookies de fontes desconhecidas.
-            </p>
-            <p>
-              <strong>Fingerprinting do navegador:</strong>
-              Além dos cookies, outras técnicas, como o fingerprinting do navegador, podem ser usadas para identificar você de forma única.
-              Essas técnicas coletam informações sobre seu navegador, sistema operacional, plugins instalados e outras características para criar uma “impressão digital” exclusiva.
-            </p>
-            <p>
-              <strong>Controle e privacidade:</strong>
-              Embora os cookies sejam amplamente usados, você pode controlar suas configurações de privacidade.
-              Configure seu navegador para bloquear cookies de terceiros ou excluí-los regularmente.
-              Use extensões de privacidade para proteger-se contra rastreamento.
-            </p>
-          </div>
-        </div>
-
-        <div class="row">
-          <div class="col col-lg-12">
-            <p>
-              Lembre-se de que nem todos os cookies são prejudiciais. Alguns são essenciais para o funcionamento adequado de sites (como cookies de sessão). No entanto, é importante estar ciente dos riscos e tomar medidas para proteger sua privacidade online.
-            </p>
-          </div>
-        </div>
-      </figure>
-      <hr>
-      <h2>TRATAMENTO DE DADOS</h2>
-      <ol>
-        <li>Carregue scripts de aviso de cookies de forma assíncrona</li>
-        <li>Carregue scripts de aviso de cookies diretamente</li>
-        <li>Exclua cookies desnecessários</li>
-        <li>Não armazene informações sensíveis em cookies</li>
-        <li>Ofereça escolhas aos usuários</li>
-        <li>Defina datas de expiração para cookies</li>
-        <li>Mantenha os avisos de cookies atualizados</li>
-      </ol>
       <hr>
 
     </article>
-    <!------------------------------------------------- Chamando Footer ------------------------------------------------->
-    <?php require "includes/footer.php"; ?>
+  </div>
 
-    <!------------------------------------------------- Chamando Java ------------------------------------------------->
-    <?php require "includes/java.php"; ?>
+
+  <!------------------------------------------------- Chamando Footer ------------------------------------------------->
+  <?php require "includes/footer.php"; ?>
+
+  <!------------------------------------------------- Chamando Java ------------------------------------------------->
+  <?php require "includes/java.php"; ?>
 
   </div>
 

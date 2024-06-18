@@ -2,7 +2,7 @@
 <html lang="pt-BR">
 <!------------------------------------------------- Chamando Head ------------------------------------------------->
 <?php require "includes/head.php"; ?>
-<title>NATALIA SERPINSKI</title>
+<title>NATALIA SIERPINSKI</title>
 
 <body>
   <div class="container text-center">
@@ -14,7 +14,7 @@
         <img src="imagens/banner_natalia.webp" alt="" class="img-banner">
       </figure>
       <hr>
-      <h1>Natalia Serpinski</h1>
+      <h1>Natalia Sierpinski</h1>
       <a href="https://www.instagram.com/n.sierpinski?igsh=Zm1rY211Z2h6OGIy" target="_blank"><b>@n.sierpinski</b></a>
       <hr>
       <div class="row justify-content-center">

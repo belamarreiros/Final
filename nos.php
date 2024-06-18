@@ -23,14 +23,22 @@
 
                 <div class="col-lg-7 col-md-8 col-sm-12">
                     <h2 class="mt-3">Nome: Bruno Silveira Mello Bifano</h2>
-                    <p>Funções no grupo:</p>
-                    <p>HTML, CSS de algumas páginas.</p>
+                    <p>Função no grupo:</p>
+                    <p>Supervisionar a confecção dos textos.</p>
                     <p>RA: 2650832323004</p>
                     <p>Mini biografia:</p>
                     <p>Sou o Bruno, tenho 28 anos e moro na cidade de São Roque. Eu trabalhava como cozinheiro, porém desde 2021 eu comecei a me interessar por conteúdo de desenvolvimento web, então ingressei no curso de Desenvolvimento Web para poder aprender e melhorar minhas habilidades para poder entrar neste mercado.
                     </p>
-                    <p>Contribuição no projeto:</p>
-                    <p>Textos, layout HTML da página Cartunistas</p>
+                    <p><b>Contribuição no projeto:</b></p>
+                    <p>
+                        Textos das páginas: fatecons.php; fatecon_2022.php; fatecon_2023.php; normas.php; rubens.php; cecilia.php; daniel.php; gilmar.php; guilherme.php; jefferson.php; marcel.php; natalia.php; premiacoes.php; rapha.php.
+                        <br>
+                        Layout e posicionamento HTML das páginas: cartunistas.php; normas.php.
+                        <br>
+                        CSS: medidas e classes das media queries.
+                        <br>
+                        Mockup das páginas: cecilia.php; daniel.php; gilmar.php; guilherme.php; jefferson.php; marcel.php; natalia.php; rapha.php.
+                    </p>
                 </div>
 
 
@@ -46,8 +54,8 @@
 
                 <div class="col-lg-7 col-md-8 col-sm-12">
                     <h2 class="mt-3">Nome: Fellipe Fernandes da Silva Gomes</h2>
-                    <p>Funções no grupo:</p>
-                    <p>HTML, CSS, Wireframe e um maior foco no tratamento das imagens e design da página.</p>
+                    <p>Função no grupo:</p>
+                    <p>Supervisionar o tratamento das imagens, seus alts e posicionamentos.</p>
                     <p>RA: 2650832323022</p>
                     <p>Mini biografia:</p>
                     <p>Sou Fellipe, tenho 32 anos, moro na cidade de Ibiúna e atualmente trabalho no setor de marketing e
@@ -64,7 +72,13 @@
                         próximo, realizar a transição de carreira para algo que realmente me traga satisfação.
                     </p>
                     <p>Contribuição no projeto:</p>
-                    <p>Tudo</p>
+                    <p>
+                        Wireframe das páginas para Mobile: Home; Fatecons; Premiações; Cartunistas, O Rubens, Quem somos, Contatos, Normas, Fatecon 2022; Fatecon 2023; Cartunista; Menu mobile.
+                        <br>
+                        HTML das páginas: premiacoes.php; fatecon_2022.php; fatecon_2023.php.
+                        <br>
+                        Observações adicionais: Mapa do Site (AI); Forms da página contato.php; tratamento das imagens de todas as páginas.
+                    </p>
 
                 </div>
 
@@ -82,20 +96,23 @@
                 <div class="col-lg-7 col-md-8 col-sm-12">
                     <h2 class="mt-3">Nome: Izabela Fernanda Marreiros Vagner</h2>
                     <p>Funções no grupo:</p>
-                    <p>HTML, CSS, wireframe e um maior foco na utilização do figma para estruturações de todas as páginas
-                        (mockups)</p>
+                    <p>Supervisão dos processos e dos layouts de todas as páginas.</p>
                     <p>RA: 2650832323017</p>
                     <p>Mini biografia:</p>
-                    <p>Olá, meu nome é Izabela Fernanda Marreiros Vagner, tenho 23 anos e trabalho como professora de
-                        inglês full-time. Porém no ano passado acabei me tornando aluna da Fatec de São Roque no curso de
-                        Sistemas para Internet e atualmente estou no segundo semestre, busco uma oportunidade para trocar
-                        de área e alavancar meus conhecimentos para alcançar metas importantes para minha vida pessoal e
-                        profissional.
-                        Falando um pouco mais sobre vida acadêmica, já cursei outras duas faculdades, sem conclusão até o
-                        momento, são elas: Facens - Engenharia Mecatrônica; e Cruzeiro do Sul - Letras Português e Inglês.
+                    <p>Olá, sou a Izabela;
+                        Sou estudante de Sistemas para Internet, com um foco especial em Front End e design. Atualmente, atuo como professora de inglês, mas estou em busca de oportunidades que alinhem com minha área de estudo. Já cursei outras duas faculdades, sem conclusão até o momento, são elas: Facens - Engenharia Mecatrônica; e Cruzeiro do Sul - Letras Português e Inglês.
                     </p>
-                    <p>Contribuição no projeto:</p>
-                    <p>Tudo</p>
+                    <p><b>Contribuição no projeto:</b></p>
+                    <p>
+                        Wireframe Desktop das páginas: Home; Fatecons; Premiações; Cartunistas; O Rubens; Quem somos; Contatos; Normas de Uso; Fatecon 2022; Fatecon 2023; Cartunista.
+                        <br>
+                        HTML das páginas: index.php; fatecons.php; rubens.php; nos.php; contato.php.
+                        <br>
+                        Imagens: imagens individuais de cada cartunista (incluindo do Rubens)) e seus banners personalizados.
+                        <br>
+                        Mockup das páginas: Componentes header, nav e footer; Home; Fatecons; Premiacoes; Cartunistas; Quem somos; Contato.
+                        Observações adicionais: Logo do grupo (Lobos Dengosos de Meias da Vovó Carmela); paleta de cores;
+                    </p>
                 </div>
 
             </div>
@@ -111,8 +128,8 @@
                 <div class="col-lg-7 col-md-8 col-sm-12">
 
                     <h2 class="mt-3">Nome: Renato Rhomer Souza de Oliveira</h2>
-                    <p>Funções no grupo:</p>
-                    <p>HTML, CSS, e um maior foco na semântica e organização do HTML e CSS</p>
+                    <p>Função no grupo:</p>
+                    <p>Supervisionar o HTML e CSS de todas as páginas.</p>
                     <p>RA: 2650832323002</p>
                     <p>Mini biografia:</p>
                     <p>Minha jornada na tecnologia começou aos 14 anos, quando mergulhei nos encantos da programação em um
@@ -122,8 +139,14 @@
                         para o avanço tecnológico. Cada linha de código representa não apenas uma conquista pessoal, mas um
                         passo sólido em direção ao meu objetivo profissional.
                     </p>
-                    <p>Contribuição no projeto:</p>
-                    <p>Tudo</p>
+                    <p><b>Contribuição no projeto:</b></p>
+                    <p>
+                        Wireframe Tablet das páginas: Home; Fatecons; Premiacoes; Cartunistas; O Rubens; Que somos; Contatos; Normas; Fatecon 2022; Fatecon 2023; Cartunista; Menu Tablet.
+                        <br>
+                        HTML das páginas: cartunistas.php; includes (head.php, header_nav.php, footer.php, java.php); nos.php; sucesso.php.
+                        <br>
+                        Observações adicionais: código php para destaque da página atual; imagens dos cartunistas individuais da página fatecons.php.
+                    </p>
                 </div>
 
             </div>

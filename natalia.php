@@ -11,7 +11,7 @@
     <article>
       <hr>
       <figure>
-        <img src="imagens/banner_natalia.webp" alt="" class="img-banner">
+        <img src="imagens/banner_natalia.webp" alt="Vários elementos promovendo a HQ 'Afeto' de Natália Sierpinski. A primeira imagem é uma ilustração de uma mulher com cabelo cacheado ruivo, óculos e uma camiseta preta. Ao lado, há uma foto da HQ 'Afeto' indicada ao Troféu Ângelo Agostini como Melhor Publicação Infantil e Melhor Roteirista 2022. Outra foto mostra Natália Sierpinski segurando a HQ. Há também uma tirinha com as personagens Joy e Natália anunciando novidades, e mais imagens da capa da HQ." class="img-banner">
       </figure>
       <hr>
       <h1>Natalia Sierpinski</h1>
@@ -20,7 +20,7 @@
       <div class="row justify-content-center">
         <div class="col-lg-6 col-md-6 col-sm-12">
           <figure>
-            <img src="imagens/natalia1.webp" alt="Imagem representando a cartunista Natalia" width="500px" height="500px" class="img_cartunista_individual">
+            <img src="imagens/natalia1.webp" alt="Ilustração de uma mulher com cabelos cacheados e ruivos, usando óculos de armação grossa, camiseta preta e calças de cintura alta azul-escuro com cinto amarelo. Suas mãos estão nos bolsos e ela está sorrindo. Assinatura do artista 'JEY GGLY PUFF' à direita." width="500px" height="500px" class="img_cartunista_individual">
           </figure>
         </div>
         <div class="col-lg-6 col-md-6 col-sm-12">

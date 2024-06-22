@@ -11,7 +11,7 @@
     <article>
       <hr>
       <figure>
-        <img src="imagens/banner_cecilia.webp" alt="banner" class="img-banner">
+        <img src="imagens/banner_cecilia.webp" alt="banner" class="img-banner" alt="Uma sequência de imagens da ilustradora Cecília Ramos em eventos e com suas obras. A primeira imagem mostra Cecília usando uma camiseta com uma ilustração e sorrindo. A segunda imagem é um close da ilustração na camiseta com uma mulher de cabelos roxos e a frase 'É muito bom ser sensível'. A terceira imagem é um banner da Poc Con 24 com as datas do evento. A quarta imagem mostra a capa de uma revista intitulada 'Crème'. A quinta imagem mostra Cecília em outro evento, ao lado de suas ilustrações e produtos exibidos em uma mesa.">
       </figure>
       <hr>
       <h1>Cecilia Martins</h1>
@@ -20,7 +20,7 @@
       <div class="row justify-content-center">
         <div class="col-lg-6 col-md-6 col-sm-12">
           <figure>
-            <img src="imagens/cecilia.jpeg" alt="Imagem representando a cartunista Cecilia Martins" width="500px" height="500px" class="img_cartunista_individual">
+            <img src="imagens/cecilia.jpeg" alt="Pessoa sorrindo com cabelo escuro e encaracolado, usando óculos de armação escura e uma blusa colorida com padrões laranja e preto. Ela está usando um cordão verde com crachá e vários bottons. Ao fundo, há desenhos na parede." width="500px" height="500px" class="img_cartunista_individual">
           </figure>
         </div>
         <div class="col-lg-6 col-md-6 col-sm-12">

@@ -11,7 +11,7 @@
     <article>
       <hr>
       <figure>
-        <img src="imagens/banner_rapha.webp" alt="" class="img-banner">
+        <img src="imagens/banner_rapha.webp" alt="Banner promocional da INKO. As imagens incluem uma pessoa lendo um quadrinho, capas de quadrinhos com o título INKO, uma mão segurando um celular e um estande de escola de mídias criativas. O texto no banner anuncia matrículas abertas para 2024.2, cursos de desenho, ilustração, quadrinhos e carreira criativa, com presença digital para artistas." class="img-banner">
       </figure>
       <hr>
       <h1>Rapha Pinheiros</h1>
@@ -20,7 +20,7 @@
       <div class="row justify-content-center">
         <div class="col-lg-6 col-md-6 col-sm-12">
           <figure>
-            <img src="imagens/rapha1.webp" alt="Imagem representando o cartunista Rapha Pinheiro" width="500px" height="500px" class="img_cartunista_individual">
+            <img src="imagens/rapha1.webp" alt="Homem sorridente com barba e óculos vermelhos lendo uma revista em quadrinhos intitulada 'O Universo é Infinito! Ahanagari 2'. O fundo mostra estantes de livros." width="500px" height="500px" class="img_cartunista_individual">
           </figure>
         </div>
         <div class="col-lg-6 col-md-6 col-sm-12">

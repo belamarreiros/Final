@@ -11,7 +11,7 @@
         <article>
             <hr>
             <figure>
-                <img src="imagens/banner_gilmar.webp" alt="" class="img-banner">
+                <img src="imagens/banner_gilmar.webp" alt="Uma sequência repetitiva de quatro seções. A primeira seção é um retrato estilizado de um homem com óculos, com uma faixa horizontal cobrindo os olhos. A segunda seção é uma caricatura de figuras públicas discutindo em frente a uma guilhotina, com um dos personagens dizendo 'DESCULPA, PAPA!' e 'APE, GORDO, ZERO'. A terceira seção é um pôster rosa anunciando o evento 'GALPÃO CULTURAL APOSTROPHE', com o texto 'EXPOSITOR CONFIRMADO!' e a data do evento. A quarta seção é outra caricatura de figuras públicas, com um personagem dizendo 'ESSE VÉINHO FOI QUEM FOI PORTO DE CHEGADA DA CIÊNCIA NA PANDEMIA' ao lado de uma gaiola." class="img-banner">
             </figure>
             <hr>
             <h1>Gilmar</h1>
@@ -20,7 +20,7 @@
             <div class="row justify-content-center">
                 <div class="col-lg-6 col-md-6 col-sm-12">
                     <figure>
-                        <img src="imagens/gilmar1.jpeg" alt="Imagem representando o cartunista Gilmar" width="500px" height="500px" class="img_cartunista_individual">
+                        <img src="imagens/gilmar1.jpeg" alt="Imagem representando o cartunista Gilmar" width="500px" height="500px" class="img_cartunista_individual" alt="Ilustração de um rosto de um homem com barba e óculos. O rosto está parcialmente coberto por uma faixa de cor marrom clara que atravessa os olhos. O fundo é branco, destacando o rosto e a faixa.">
                     </figure>
                 </div>
                 <div class="col-lg-6 col-md-6 col-sm-12">

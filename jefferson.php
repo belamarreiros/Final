@@ -11,7 +11,7 @@
         <article>
             <hr>
             <figure>
-                <img src="imagens/banner_jefferson.webp" alt="" class="img-banner">
+                <img src="imagens/banner_jefferson.webp" alt="Vários elementos promovendo o trabalho de Jefferson Costa. A primeira imagem é uma fotografia de Jefferson Costa sorrindo em um ambiente com paredes amarelas e pôsteres. Ao lado, há diversas imagens promovendo sua obra 'Roseira Medalha Engenho'. Outra seção mostra um cartaz do lançamento do livro 'Quando Nasce a Autostima?' com Jefferson Costa. Há também uma ilustração em preto e branco de personagens correndo e rindo, e uma capa verde com o título 'Roseira Medalha Engenho' com a foto de Jefferson Costa." class="img-banner">
             </figure>
             <hr>
             <h1>Jefferson Costa </h1>
@@ -20,7 +20,7 @@
             <div class="row justify-content-center">
                 <div class="col-lg-6 col-md-6 col-sm-12">
                     <figure>
-                        <img src="imagens/jefferson1.webp" alt="Imagem representando o cartunista Jefferson" width="500px" height="500px" class="img_cartunista_individual">
+                        <img src="imagens/jefferson1.webp" alt="Homem sorrindo com cabelo dreadlock e barba, vestindo uma camisa bege. Ele está em um ambiente interno com paredes amarelas, onde há uma exposição com quadros e um texto na parede que diz 'Rosária Medalha + Engenho'." width="500px" height="500px" class="img_cartunista_individual">
                     </figure>
                 </div>
                 <div class="col-lg-6 col-md-6 col-sm-12">

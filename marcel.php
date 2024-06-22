@@ -12,7 +12,7 @@
         <article>
             <hr>
             <figure>
-                <img src="imagens/banner_marcel.webp" alt="" class="img-banner">
+                <img src="imagens/banner_marcel.webp" alt="Vários elementos promovendo o trabalho de Marcel Bartholo. A primeira imagem é uma fotografia de duas pessoas sentadas em um campo aberto. Ao lado, há uma ilustração de um rosto com um chapéu. No centro, há uma foto de Marcel Bartholo dando uma entrevista, com um banner ao fundo que exibe seu nome e indica que ele é o idealizador e responsável pelo selo Insânia. À direita, há duas ilustrações de animais, uma de um tubarão azul e outra de uma criatura azul com olhos grandes." class="img-banner">
             </figure>
             <hr>
             <h1>Marcel Bartholo</h1>
@@ -21,7 +21,7 @@
             <div class="row justify-content-center">
                 <div class="col-lg-6 col-md-6 col-sm-12">
                     <figure>
-                        <img src="imagens/marcel1.webp" alt="Imagem representando o cartunista Marcel" width="500px" height="500px" class="img_cartunista_individual">
+                        <img src="imagens/marcel1.webp" alt="Casal sentado em um campo aberto com vegetação seca e algumas árvores pequenas. Eles estão sorrindo e parecendo felizes. Ao fundo, outras pessoas estão sentadas ou caminhando, com um céu nublado acima." width="500px" height="500px" class="img_cartunista_individual">
                     </figure>
                 </div>
                 <div class="col-lg-6 col-md-6 col-sm-12">

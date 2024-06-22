@@ -11,7 +11,7 @@
     <article>
       <hr>
       <figure>
-        <img src="imagens/banner_guilherme.webp" alt="" class="img-banner">
+        <img src="imagens/banner_guilherme.webp" alt="Uma sequência repetitiva de quatro seções. A primeira seção é uma foto de um homem usando roupas de inverno, possivelmente em um ambiente frio. A segunda seção é uma tirinha de quadrinhos com um personagem de aparência divertida discutindo política. A terceira seção é um desenho de um personagem com o texto 'NÃO ESTOU SÓ, ESTOU APOSENTADO' em torno dele. A quarta seção é uma foto de Guilherme Infante com um desenho do personagem ao fundo e o texto 'ARTISTA CONVIDADO' e 'GUILHERME INFANTE'. A quinta seção é outro desenho do personagem com o texto 'LIMA DE 70, PACIÊNCIA DE 80, LOMBAR DE 90' ao redor." class="img-banner">
       </figure>
       <hr>
       <div class="row col-lg-12 col-md-12 col-sm-12 justify-content-center">
@@ -23,7 +23,7 @@
       <div class="row justify-content-center">
         <div class="col-lg-6 col-md-6 col-sm-12">
           <figure>
-            <img src="imagens/guilherme1.webp" alt="Imagem representando o cartunista Guilherme Infante" width="500px" height="500px" class="img_cartunista_individual">
+            <img src="imagens/guilherme1.webp" alt="Homem correndo em um ambiente nevado, vestindo uma jaqueta verde, gorro cinza e cachecol colorido. Ele está usando um colete de hidratação preto com bolsos azuis, contendo uma garrafa de água." width="500px" height="500px" class="img_cartunista_individual">
           </figure>
         </div>
         <div class="col-lg-6 col-md-6 col-sm-12">

@@ -11,7 +11,7 @@
         <article>
             <hr>
             <figure>
-                <img src="imagens/banner_daniel.webp" alt="banner" class="img-banner">
+                <img src="imagens/banner_daniel.webp" alt="banner" class="img-banner" alt="Uma sequência repetitiva de quatro seções. A primeira seção mostra um homem sorrindo com o texto 'ARTIST VALLEY' e 'MESA: K19-20' na CCXP23. A segunda seção é uma foto de um homem sentado em um sofá lendo uma revista para um cachorro, com uma fala na revista que diz 'E AÍ, ZURITA, JÁ FICOU LIGADO NO NOVO GIBI DO HOMEM-GRILO?'. A terceira seção é um pôster anunciando um 'ENCONTRO ILUSTRADO' com Daniel Esteves em 29/05/2024 às 19h, no Comedoría de Sesc Sorocaba. A quarta seção é outro pôster para uma 'ENTREVISTA' com Daniel Esteves em 16/03 às 18h, com o texto 'DÁDIVA TRIPLA' ao fundo.">
             </figure>
             <hr>
             <h1>Daniel Esteves</h1>
@@ -20,7 +20,7 @@
             <div class="row justify-content-center">
                 <div class="col-lg-6 col-md-6 col-sm-12">
                     <figure>
-                        <img src="imagens/daniel.jpg" alt="Imagem representando o cartunista Daniel Esteves" width="500px" height="500px" class="img_cartunista_individual">
+                        <img src="imagens/daniel.jpg" alt="Imagem representando o cartunista Daniel Esteves" width="500px" height="500px" class="img_cartunista_individual" alt="Banner promocional da CCXP23 apresentando Daniel Esteves no Artists' Valley by Bis. Daniel Esteves está sorrindo na imagem, que também inclui o texto 'Mesa: K19-20' e o logotipo da CCXP23. O fundo é decorado com ilustrações diversas.">
                     </figure>
                 </div>
                 <div class="col-lg-6 col-md-6 col-sm-12">

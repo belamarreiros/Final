@@ -33,11 +33,12 @@
                     <p>
                         Textos das páginas: fatecons.php; fatecon_2022.php; fatecon_2023.php; normas.php; rubens.php; cecilia.php; daniel.php; gilmar.php; guilherme.php; jefferson.php; marcel.php; natalia.php; premiacoes.php; rapha.php.
                         <br>
-                        Layout e posicionamento HTML das páginas: cartunistas.php; normas.php.
+                        Layout e posicionamento HTML das páginas: normas.php; cecilia.php; daniel.php; gilmar.php; guilherme.php; jefferson.php; marcel.php; natalia.php; premiacoes.php; rapha.php.
                         <br>
                         CSS: medidas e classes das media queries.
                         <br>
-                        Mockup das páginas: cecilia.php; daniel.php; gilmar.php; guilherme.php; jefferson.php; marcel.php; natalia.php; rapha.php.
+                        Mockup das páginas desktop: cecilia.php; daniel.php; gilmar.php; guilherme.php; jefferson.php; marcel.php; natalia.php; rapha.php.
+                        Mockup de todas as páginas tablet e mobile.
                     </p>
                 </div>
 
@@ -77,7 +78,7 @@
                         <br>
                         HTML das páginas: premiacoes.php; fatecon_2022.php; fatecon_2023.php.
                         <br>
-                        Observações adicionais: Mapa do Site (AI); Forms da página contato.php; tratamento das imagens de todas as páginas.
+                        Observações adicionais: Mapa do Site (AI); Forms da página contato.php; Tratamento das imagens de todas as páginas; "Alts" de todas as imagens.
                     </p>
 
                 </div>
@@ -110,8 +111,8 @@
                         <br>
                         Imagens: imagens individuais de cada cartunista (incluindo do Rubens)) e seus banners personalizados.
                         <br>
-                        Mockup das páginas: Componentes header, nav e footer desktop e tablet; Home; Fatecons; Premiacoes; Cartunistas; Quem somos; Contato.
-                        Observações adicionais: Logo do grupo (Lobos Dengosos de Meias da Vovó Carmela); paleta de cores;
+                        Mockup das páginas: Componentes do header, nav e footer para os tamanhos desktop, tablet e mobile; Home; Fatecons; Premiacoes; Cartunistas; Quem somos; Contato.
+                        Observações adicionais: Logo do grupo (Lobos Dengosos de Meias da Vovó Carmela); paleta de cores; Protótipo desktop.
                     </p>
                 </div>
 

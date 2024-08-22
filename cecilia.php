@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="PT-BR">
+<html lang="pt-BR">
 <!------------------------------------------------- Chamando Head ------------------------------------------------->
 <?php require "includes/head.php"; ?>
 <title>CECILIA MARTINS</title>
